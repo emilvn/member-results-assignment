@@ -1,5 +1,5 @@
 import {formatDate} from "../helpers/formatdate.js";
-import {disciplinesInDanish} from "../../main.js";
+import {disciplinesInDanish} from "../helpers/disciplines-in-danish.js";
 
 
 export class View{
