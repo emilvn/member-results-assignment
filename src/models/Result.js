@@ -8,27 +8,29 @@ export class Result{
 	#_time;
 	id;
 
+	/**
+	 * Result constructor
+	 * @param {ResultData} resultDetails
+	 */
 	constructor(resultDetails) {
-		this.id = resultDetails.id;
 		this.date = resultDetails.date;
-		this.discipline = resultDetails.discipline;
 		this.member = resultDetails.memberId;
-		this.type = resultDetails.resultType;
 		this.time = resultDetails.time;
-		Object.defineProperties(Result, {
+		Object.defineProperties(this, {
 			id:{
-				writable: false
+				value: resultDetails.id || undefined,
+				writable: false,
+				enumerable: true
 			},
-			_time:{
-				enumerable: false
+			discipline: {
+				value: resultDetails.discipline,
+				enumerable: true
 			},
-			_type:{
-				enumerable: false
-			},
-			_date:{
-				enumerable: false
+			type: {
+				value: resultDetails.resultType,
+				enumerable: true
 			}
-		})
+		});
 	}
 
 	get date(){

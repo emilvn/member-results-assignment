@@ -19,6 +19,9 @@ async function main() {
 	const results = await getResults();
 	View.displayMembers(members);
 	View.displayResults(results);
+	for(const key in results[0]){
+		console.log(key);
+	}
 }
 
 

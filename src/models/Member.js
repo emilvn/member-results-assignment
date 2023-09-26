@@ -6,24 +6,23 @@ export class Member{
 	id;
 	isActive;
 
+	/**
+	 * Member constructor
+	 * @param {MemberData} memberDetails
+	 */
 	constructor(memberDetails) {
-		this.id = memberDetails.id || undefined;
 		this.birthdate = memberDetails.dateOfBirth || undefined;
 		this.firstName = memberDetails.firstName || undefined;
 		this.lastName = memberDetails.lastName || undefined;
-		this.isActive = memberDetails.isActiveMember || undefined;
-		Object.defineProperties(Member, {
-			_name:{
-				enumerable: false
-			},
-			name:{
-				enumerable : false
-			},
-			image:{
-				enumerable : false
+		Object.defineProperties(this, {
+			isActive: {
+				value: memberDetails.isActiveMember || undefined,
+				enumerable: true
 			},
 			id: {
-				writable: false
+				value: memberDetails.id || undefined,
+				writable: false,
+				enumerable: true
 			}
 		});
 	}
