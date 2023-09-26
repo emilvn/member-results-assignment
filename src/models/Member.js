@@ -11,16 +11,16 @@ export class Member{
 	 * @param {MemberData} memberDetails
 	 */
 	constructor(memberDetails) {
-		this.birthdate = memberDetails.dateOfBirth || undefined;
-		this.firstName = memberDetails.firstName || undefined;
-		this.lastName = memberDetails.lastName || undefined;
+		this.birthdate = memberDetails.dateOfBirth;
+		this.firstName = memberDetails.firstName;
+		this.lastName = memberDetails.lastName;
 		Object.defineProperties(this, {
 			isActive: {
-				value: memberDetails.isActiveMember || undefined,
+				value: memberDetails.isActiveMember,
 				enumerable: true
 			},
 			id: {
-				value: memberDetails.id || undefined,
+				value: memberDetails.id,
 				writable: false,
 				enumerable: true
 			}

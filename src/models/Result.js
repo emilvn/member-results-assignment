@@ -18,7 +18,7 @@ export class Result{
 		this.time = resultDetails.time;
 		Object.defineProperties(this, {
 			id:{
-				value: resultDetails.id || undefined,
+				value: resultDetails.id,
 				writable: false,
 				enumerable: true
 			},
