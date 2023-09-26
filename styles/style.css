@@ -1,0 +1,50 @@
+body {
+  background-color: #555;
+  color: #ddf;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#tabs {
+  max-width: 60vw;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+#tabs h2 {
+  margin: 0;
+  padding: .5em;
+  background-color: #444;
+  cursor: pointer;
+}
+
+#tabs h2.selected {
+  background-color: #666;
+  border: 1px solid black;
+  border-bottom: none;
+}
+
+#tabs h2:not(.selected) {
+  border-bottom: 1px solid black;
+}
+
+#tabs table {
+  padding: 1em;
+  background-color: #666;
+  grid-area: 2 / 1 / 2 / 3 ;
+  border: 1px solid black;
+  border-top: none;
+}
+
+.hide {
+  display: none;
+}
+
+/* invididual styling of tables ... adjust to taste! */
+
+#members tr td:nth-child(3) {
+  text-align: right;
+}
+
+#members tr td:nth-child(4) {
+  text-align: center;
+}

@@ -1,0 +1,7293 @@
+[
+  {
+    "id": "-NVJ85i_Udnw8KJE2HqY",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "National Championship",
+    "competitionPlacement": 3,
+    "date": "2023-05-12",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "00:45.12"
+  },
+  {
+    "id": "-NVJ85jNbOiz4w8MkHye",
+    "competitionLocation": "Malmö",
+    "competitionName": "Regional Championship",
+    "competitionPlacement": 8,
+    "date": "2021-09-01",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "02:10.22"
+  },
+  {
+    "id": "-NVJ85jiv83wrbLsj84W",
+    "competitionLocation": "Aalborg",
+    "competitionName": "Regional Championship",
+    "competitionPlacement": 6,
+    "date": "2021-05-28",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "00:56.78"
+  },
+  {
+    "id": "-NVJ85jjtu_vsG1WtcfS",
+    "competitionLocation": "Paris",
+    "competitionName": "European Championship",
+    "competitionPlacement": 4,
+    "date": "2023-04-22",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "01:10.23"
+  },
+  {
+    "id": "-NVJ85k4ASFAxVxlqraU",
+    "competitionLocation": "Aalborg",
+    "competitionName": "State Championship",
+    "competitionPlacement": 7,
+    "date": "2020-08-02",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "01:45.33"
+  },
+  {
+    "id": "-NVJ85k4ASFAxVxlqraV",
+    "competitionLocation": "Aarhus",
+    "competitionName": "National Championship",
+    "competitionPlacement": 2,
+    "date": "2021-10-05",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "00:40.45"
+  },
+  {
+    "id": "-NVJ85k4ASFAxVxlqraW",
+    "competitionLocation": "London",
+    "competitionName": "International Games",
+    "competitionPlacement": 5,
+    "date": "2021-06-10",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "01:20.54"
+  },
+  {
+    "id": "-NVJ85k4ASFAxVxlqraX",
+    "competitionLocation": "Odense",
+    "competitionName": "City Championship",
+    "competitionPlacement": 1,
+    "date": "2022-07-15",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "00:35.78"
+  },
+  {
+    "id": "-NVJ85kWNqRrWIVFHwWg",
+    "competitionLocation": "Stockholm",
+    "competitionName": "International Games",
+    "competitionPlacement": 4,
+    "date": "2022-11-12",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "01:30.98"
+  },
+  {
+    "id": "-NVJ85kYL7doCZ6taM3p",
+    "competitionLocation": "Herning",
+    "competitionName": "State Championship",
+    "competitionPlacement": 3,
+    "date": "2022-12-10",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "00:50.45"
+  },
+  {
+    "id": "-NVJ85kmnYAspQR9pFuk",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "regional championship",
+    "competitionPlacement": 1,
+    "date": "2023-05-01",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "00:24.58"
+  },
+  {
+    "id": "-NVJ85kpNqd215wbjMzm",
+    "competitionLocation": "New York",
+    "competitionName": "Summer Classic",
+    "competitionPlacement": 2,
+    "date": "2020-07-11",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+
+    "resultType": "competition",
+    "time": "00:24.58"
+  },
+  {
+    "id": "-NVJ85kpNqd215wbjMzn",
+    "competitionLocation": "Aarhus",
+    "competitionName": "state championship",
+    "competitionPlacement": 2,
+    "date": "2023-05-06",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "00:34.56"
+  },
+  {
+    "id": "-NVJ85kpNqd215wbjMzo",
+    "competitionLocation": "Los Angeles",
+    "competitionName": "California State Games",
+    "competitionPlacement": 1,
+    "date": "2020-06-21",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+
+    "resultType": "competition",
+    "time": "00:23.97"
+  },
+  {
+    "id": "-NVJ85lK5ocJl-x5VbAk",
+    "competitionLocation": "Miami",
+    "competitionName": "Winter Invitational",
+    "competitionPlacement": 3,
+    "date": "2020-02-22",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+
+    "resultType": "competition",
+    "time": "00:25.12"
+  },
+  {
+    "id": "-NVJ85lK5ocJl-x5VbAl",
+    "competitionLocation": "Houston",
+    "competitionName": "Spring Challenge",
+    "competitionPlacement": 4,
+    "date": "2020-05-05",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+
+    "resultType": "competition",
+    "time": "00:25.45"
+  },
+  {
+    "id": "-NVJ85lXKUZnUi1ujdfE",
+    "competitionLocation": "Chicago",
+    "competitionName": "Midwest Open",
+    "competitionPlacement": 8,
+    "date": "2020-02-14",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "00:26.11"
+  },
+  {
+    "id": "-NVJ85lfw7IFctSypf1v",
+    "competitionLocation": "Dallas",
+    "competitionName": "Winter Nationals",
+    "competitionPlacement": 5,
+    "date": "2020-03-05",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "competition",
+    "time": "00:25.63"
+  },
+  {
+    "id": "-NVJ85lfw7IFctSypf1w",
+    "date": "2023-01-01",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "01:54.17"
+  },
+  {
+    "id": "-NVJ85lgrZyHIZIjCcjz",
+    "competitionLocation": "San Francisco",
+    "competitionName": "Golden State Games",
+    "competitionPlacement": 6,
+    "date": "2020-12-19",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+
+    "resultType": "competition",
+    "time": "00:25.78"
+  },
+  {
+    "id": "-NVJ85m7b03YHf3fqHva",
+    "date": "2023-01-08",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "00:49.26"
+  },
+  {
+    "id": "-NVJ85m8uNCLvhMYnIuy",
+    "date": "2023-01-22",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "01:37.91"
+  },
+  {
+    "id": "-NVJ85mDsKJCf652Cp4e",
+    "date": "2023-02-09",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "00:39.47"
+  },
+  {
+    "id": "-NVJ85mOrgwI7himrTA_",
+    "date": "2023-03-06",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "01:20.84"
+  },
+  {
+    "id": "-NVJ85mRmWePzO0RitMJ",
+    "date": "2023-03-24",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "01:02.33"
+  },
+  {
+    "id": "-NVJ85mXrvWz48EbIWHe",
+    "date": "2023-03-08",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:01.31"
+  },
+  {
+    "id": "-NVJ85n27XB1lylL4s2k",
+    "date": "2023-02-05",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "01:01.68"
+  },
+  {
+    "id": "-NVJ85n8sEmbdbiAPI_z",
+    "date": "2023-02-23",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "01:15.84"
+  },
+  {
+    "id": "-NVJ85nGrIObmyb4YAfD",
+    "date": "2023-02-22",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "training",
+    "time": "01:03.68"
+  },
+  {
+    "id": "-NVJ85nGrIObmyb4YAfE",
+    "date": "2023-01-02",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "training",
+    "time": "01:38.92"
+  },
+  {
+    "id": "-NVJ85nUpGp0pph4ved6",
+    "date": "2023-04-16",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "training",
+    "time": "01:25.72"
+  },
+  {
+    "id": "-NVJ85nm_c9AomaVyQLL",
+    "date": "2023-05-21",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "training",
+    "time": "01:16.14"
+  },
+  {
+    "id": "-NVJ85nsx0k0TFaveZbg",
+    "date": "2023-04-11",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "01:44.75"
+  },
+  {
+    "id": "-NVJ85oB6iKZmj16SxOY",
+    "date": "2023-04-15",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "02:20.48"
+  },
+  {
+    "id": "-NVJ85oHo9thESefQnLV",
+    "competitionLocation": "Stockholm",
+    "competitionName": "April Fools Run",
+    "competitionPlacement": 2,
+    "date": "2023-04-01",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:25.78"
+  },
+  {
+    "id": "-NVJ85ogAGPDXcAgk9LZ",
+    "date": "2023-04-26",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "00:47.26"
+  },
+  {
+    "id": "-NVJ85oj-3WbADvz7pVz",
+    "competitionLocation": "Paris",
+    "competitionName": "Holiday Sprint",
+    "competitionPlacement": 3,
+    "date": "2022-12-17",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:26.90"
+  },
+  {
+    "id": "-NVJ85oswIHdEOQW8-Gi",
+    "date": "2023-05-24",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "02:10.76"
+  },
+  {
+    "id": "-NVJ85otthn9cvX6rXsv",
+    "date": "2023-05-09",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "01:38.19"
+  },
+  {
+    "id": "-NVJ85oyZTIU7DTrzwK7",
+    "date": "2023-01-03",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "02:10.51"
+  },
+  {
+    "id": "-NVJ85p4Qs6SWIVH097K",
+    "date": "2023-01-12",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "01:23.13"
+  },
+  {
+    "id": "-NVJ85pOrPaFVrSR9fL4",
+    "date": "2023-02-24",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "00:44.93"
+  },
+  {
+    "id": "-NVJ85pR7rtsIJevWsqj",
+    "date": "2023-03-16",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "01:57.14"
+  },
+  {
+    "id": "-NVJ85panfyqApjk0Av5",
+    "date": "2023-04-20",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "01:41.04"
+  },
+  {
+    "id": "-NVJ85pb811agctIqJZz",
+    "date": "2023-03-31",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "00:53.67"
+  },
+  {
+    "id": "-NVJ85qYVdltsyeel4_w",
+    "date": "2023-01-03",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "02:07.10"
+  },
+  {
+    "id": "-NVJ85qYVdltsyeel4_x",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Winter Run",
+    "competitionPlacement": 3,
+    "date": "2022-02-12",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:27.90"
+  },
+  {
+    "id": "-NVJ85qdYzcdcymOkC7_",
+    "competitionLocation": "Hamburg",
+    "competitionName": "City Classic",
+    "competitionPlacement": 6,
+    "date": "2023-04-22",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "01:05.23"
+  },
+  {
+    "id": "-NVJ85qnzX_2OcxUBaOf",
+    "competitionLocation": "New York City",
+    "competitionName": "Global Classic",
+    "competitionPlacement": 5,
+    "date": "2021-07-10",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:49.09"
+  },
+  {
+    "id": "-NVJ85rLCxjuXt4RNeSk",
+    "date": "2023-05-10",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:55.03"
+  },
+  {
+    "id": "-NVJ85r_Eh4ygv_fTlXT",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Summer Classic",
+    "competitionPlacement": 1,
+    "date": "2020-07-11",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:30.62"
+  },
+  {
+    "id": "-NVJ85rbFjNBrI6imC5d",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "New Year Classic",
+    "competitionPlacement": 2,
+    "date": "2022-01-08",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:32.98"
+  },
+  {
+    "id": "-NVJ85s32Nq-3s2iZr2w",
+    "competitionLocation": "Gothenburg",
+    "competitionName": "Winter Challenge",
+    "competitionPlacement": 7,
+    "date": "2023-02-11",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "01:05.21"
+  },
+  {
+    "id": "-NVJ85s6bpcSLRK-GJM9",
+    "date": "2023-05-01",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "02:16.79"
+  },
+  {
+    "id": "-NVJ85sBFtJ8pCBJUtT7",
+    "competitionLocation": "Oslo",
+    "competitionName": "City Open",
+    "competitionPlacement": 7,
+    "date": "2022-04-10",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "01:12.49"
+  },
+  {
+    "id": "-NVJ85sHZelwYpLQFw7T",
+    "competitionLocation": "Aarhus",
+    "competitionName": "Autumn Classic",
+    "competitionPlacement": 4,
+    "date": "2021-10-22",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:43.52"
+  },
+  {
+    "id": "-NVJ85sMnT7k9PCQYJce",
+    "date": "2023-05-28",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "01:46.21"
+  },
+  {
+    "id": "-NVJ85sYZhqbk22o0zVr",
+    "date": "2023-05-10",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "training",
+    "time": "00:52.15"
+  },
+  {
+    "id": "-NVJ85somQEORVnlI_eb",
+    "date": "2023-02-01",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "training",
+    "time": "02:18.45"
+  },
+  {
+    "id": "-NVJ85suOjlco10p9exg",
+    "date": "2023-01-11",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "training",
+    "time": "01:57.11"
+  },
+  {
+    "id": "-NVJ85t-nsFVhllPPBzJ",
+    "date": "2023-03-12",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "training",
+    "time": "01:49.23"
+  },
+  {
+    "id": "-NVJ85t2su7w3Td6nUzt",
+    "competitionLocation": "New York",
+    "competitionName": "New York City Championships",
+    "competitionPlacement": 1,
+    "date": "2021-10-20",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "00:40.50"
+  },
+  {
+    "id": "-NVJ85tEj1rxRbMSYBOc",
+    "date": "2023-03-26",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "training",
+    "time": "00:42.36"
+  },
+  {
+    "id": "-NVJ85tLhYILyFH0D-qb",
+    "competitionLocation": "Tokyo",
+    "competitionName": "Tokyo Olympics",
+    "competitionPlacement": 3,
+    "date": "2023-04-07",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "00:59.86"
+  },
+  {
+    "id": "-NVJ85tm6owgfUJr9KuY",
+    "date": "2023-01-17",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:59.68"
+  },
+  {
+    "id": "-NVJ85tm6owgfUJr9KuZ",
+    "date": "2023-05-12",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "training",
+    "time": "02:12.07"
+  },
+  {
+    "id": "-NVJ85tnGVwRSZYa84tN",
+    "competitionLocation": "Milan",
+    "competitionName": "Milan Indoor Championships",
+    "competitionPlacement": 5,
+    "date": "2022-03-11",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:14.60"
+  },
+  {
+    "id": "-NVJ85toM6OQlZyAL6i5",
+    "date": "2023-04-29",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "training",
+    "time": "00:56.98"
+  },
+  {
+    "id": "-NVJ85tzPgu7m24Ep0hT",
+    "date": "2023-01-05",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:38.15"
+  },
+  {
+    "id": "-NVJ85u6fIK5hhfzdk9w",
+    "date": "2023-02-20",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "02:13.27"
+  },
+  {
+    "id": "-NVJ85uVtxRPbBY2T46q",
+    "date": "2023-03-11",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:40.08"
+  },
+  {
+    "id": "-NVJ85uXddICQni9Vldl",
+    "date": "2023-02-03",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:12.91"
+  },
+  {
+    "id": "-NVJ85uXddICQni9Vldm",
+    "competitionLocation": "Athens",
+    "competitionName": "Athens International Open",
+    "competitionPlacement": 1,
+    "date": "2022-06-10",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "00:57.80"
+  },
+  {
+    "id": "-NVJ85u_orUb7sOK4Vx-",
+    "date": "2023-03-24",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "00:34.22"
+  },
+  {
+    "id": "-NVJ85unOkd1MUCXMROf",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Stockholm Open",
+    "competitionPlacement": 6,
+    "date": "2021-12-07",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:31.20"
+  },
+  {
+    "id": "-NVJ85upLXoDGqvh26wm",
+    "date": "2023-04-15",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:55.49"
+  },
+  {
+    "id": "-NVJ85vWrDaYsLHc839T",
+    "date": "2023-02-05",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:20.24"
+  },
+  {
+    "id": "-NVJ85vYf39OHcZoZZLr",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Autumn Classic",
+    "competitionPlacement": 3,
+    "date": "2022-09-17",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:32.19"
+  },
+  {
+    "id": "-NVJ85vfGJydQLkQMHAw",
+    "competitionLocation": "Munich",
+    "competitionName": "Autumn Sprint",
+    "competitionPlacement": 2,
+    "date": "2020-10-24",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:27.11"
+  },
+  {
+    "id": "-NVJ85vvdsmvhaji6l0H",
+    "competitionLocation": "Glasgow",
+    "competitionName": "Autumn Games",
+    "competitionPlacement": 7,
+    "date": "2021-11-06",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:43.62"
+  },
+  {
+    "id": "-NVJ85w5WmAZHUM-y10o",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Autumn Sprint",
+    "competitionPlacement": 6,
+    "date": "2022-11-12",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:39.14"
+  },
+  {
+    "id": "-NVJ85wFp8Uppc9qS6lH",
+    "competitionLocation": "Oslo",
+    "competitionName": "Winter Classic",
+    "competitionPlacement": 7,
+    "date": "2022-01-22",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:47.21"
+  },
+  {
+    "id": "-NVJ85wthETY6CbTtFfS",
+    "competitionLocation": "Toronto",
+    "competitionName": "Toronto Invitational",
+    "competitionPlacement": 2,
+    "date": "2022-11-20",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:08.75"
+  },
+  {
+    "id": "-NVJ85xBbtTy7Nj9OAmr",
+    "competitionLocation": "Barcelona",
+    "competitionName": "Summer Slam",
+    "competitionPlacement": 8,
+    "date": "2022-08-23",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:59.27"
+  },
+  {
+    "id": "-NVJ85xGT-bkeQOYf2E1",
+    "competitionLocation": "Munich",
+    "competitionName": "Munich Invitational",
+    "competitionPlacement": 8,
+    "date": "2023-05-05",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "02:15.60"
+  },
+  {
+    "id": "-NVJ85xSkyktVhhVji2R",
+    "competitionLocation": "Viborg",
+    "competitionName": "State Classic",
+    "competitionPlacement": 3,
+    "date": "2023-04-12",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:44.97"
+  },
+  {
+    "id": "-NVJ85xfEVobefrifLuJ",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Winter Games",
+    "competitionPlacement": 5,
+    "date": "2021-01-12",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:55.23"
+  },
+  {
+    "id": "-NVJ85y2AEDKYyYbjEHe",
+    "date": "2023-02-01",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "00:38.19"
+  },
+  {
+    "id": "-NVJ85yGkBbHD_T7BslF",
+    "date": "2023-03-12",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "02:05.28"
+  },
+  {
+    "id": "-NVJ85yqcxBcisPSaXOz",
+    "date": "2023-04-24",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:06.48"
+  },
+  {
+    "id": "-NVJ85z-jilBV0tvYhEu",
+    "competitionLocation": "Chicago",
+    "competitionName": "New Year's Cup",
+    "competitionPlacement": 6,
+    "date": "2021-12-30",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "02:30.00"
+  },
+  {
+    "id": "-NVJ85z0SVKq9Bx0n5rd",
+    "date": "2023-01-02",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:32.58"
+  },
+  {
+    "id": "-NVJ85zFyDodwKVyGtnq",
+    "date": "2023-03-07",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:01.11"
+  },
+  {
+    "id": "-NVJ85zbl6ZQriJXCQRb",
+    "date": "2023-05-21",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "02:24.91"
+  },
+  {
+    "id": "-NVJ86-2D-O4uLAjphWO",
+    "date": "2023-04-28",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "02:13.17"
+  },
+  {
+    "id": "-NVJ86-5naOwfwiwo4s-",
+    "competitionLocation": "Dublin",
+    "competitionName": "City Sprint",
+    "competitionPlacement": 3,
+    "date": "2022-05-15",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:28.75"
+  },
+  {
+    "id": "-NVJ86-BXD9A5eh9Bdhx",
+    "competitionLocation": "Horsens",
+    "competitionName": "City Championship",
+    "competitionPlacement": 1,
+    "date": "2022-05-20",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "00:41.25"
+  },
+  {
+    "id": "-NVJ86-_3LSCLqc1FtAE",
+    "competitionLocation": "Boston",
+    "competitionName": "Boston Open",
+    "competitionPlacement": 5,
+    "date": "2023-01-13",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:45.75"
+  },
+  {
+    "id": "-NVJ86-msy1cgugX5j-o",
+    "competitionLocation": "Oslo",
+    "competitionName": "Olympic Trials",
+    "competitionPlacement": 1,
+    "date": "2020-11-12",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "00:42.56"
+  },
+  {
+    "id": "-NVJ86-yp08vreW1T2Ej",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Summer Invitational",
+    "competitionPlacement": 3,
+    "date": "2022-08-20",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:39.12"
+  },
+  {
+    "id": "-NVJ860DosI8uUV1gPUR",
+    "competitionLocation": "Munich",
+    "competitionName": "Autumn Games",
+    "competitionPlacement": 7,
+    "date": "2020-10-10",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "competition",
+    "time": "00:55.02"
+  },
+  {
+    "id": "-NVJ860QgbIgfTlPPbzk",
+    "date": "2023-04-28",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "02:11.32"
+  },
+  {
+    "id": "-NVJ860gV38sZF13goIN",
+    "date": "2023-02-01",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:16.32"
+  },
+  {
+    "id": "-NVJ860tK-lZQ2w0KxHY",
+    "competitionLocation": "Zurich",
+    "competitionName": "Winter Games",
+    "competitionPlacement": 1,
+    "date": "2023-01-28",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "00:50.10"
+  },
+  {
+    "id": "-NVJ861JwQYc_HF9FX6x",
+    "date": "2023-02-02",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "00:33.46"
+  },
+  {
+    "id": "-NVJ861MTeWgoLBJuIFw",
+    "date": "2023-04-19",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:14.52"
+  },
+  {
+    "id": "-NVJ861NqwNrVS8nV78k",
+    "competitionLocation": "Boston",
+    "competitionName": "Boston Invitational",
+    "competitionPlacement": 3,
+    "date": "2021-05-12",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:12.91"
+  },
+  {
+    "id": "-NVJ861_uJByXhQNzPCv",
+    "date": "2023-01-10",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "01:02.75"
+  },
+  {
+    "id": "-NVJ861h4Ika7kQbXbZQ",
+    "date": "2023-05-11",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "01:22.41"
+  },
+  {
+    "id": "-NVJ861wSI-6fQJH0aue",
+    "date": "2023-01-02",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "01:50.01"
+  },
+  {
+    "id": "-NVJ8626AznU7p4TI4mM",
+    "date": "2023-02-17",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:19.49"
+  },
+  {
+    "id": "-NVJ862J94-hEMFasGkp",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Autumn Run",
+    "competitionPlacement": 1,
+    "date": "2021-11-06",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:27.19"
+  },
+  {
+    "id": "-NVJ862K_jbquYLK2TrW",
+    "date": "2023-01-01",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:05.40"
+  },
+  {
+    "id": "-NVJ862VBtApWv8pnK5j",
+    "date": "2023-05-17",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:42.41"
+  },
+  {
+    "id": "-NVJ86311vrowdqeLole",
+    "date": "2023-05-11",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:19.57"
+  },
+  {
+    "id": "-NVJ86311vrowdqeLolf",
+    "date": "2023-05-20",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:47.39"
+  },
+  {
+    "id": "-NVJ86311vrowdqeLolg",
+    "date": "2023-01-14",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "00:47.88"
+  },
+  {
+    "id": "-NVJ863A1CYQsQsyRFhD",
+    "date": "2023-02-19",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:45.73"
+  },
+  {
+    "id": "-NVJ863se-S5DpPhCHU9",
+    "competitionLocation": "Zurich",
+    "competitionName": "Winter Games",
+    "competitionPlacement": 1,
+    "date": "2021-02-27",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:23.45"
+  },
+  {
+    "id": "-NVJ863ti6IEsijuAwWK",
+    "competitionLocation": "Warsaw",
+    "competitionName": "Spring Classic",
+    "competitionPlacement": 4,
+    "date": "2022-05-07",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:32.91"
+  },
+  {
+    "id": "-NVJ8643Hg37io4vdozL",
+    "date": "2023-03-08",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:01.11"
+  },
+  {
+    "id": "-NVJ864IXqmIGukpO4cI",
+    "date": "2023-03-21",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:11.34"
+  },
+  {
+    "id": "-NVJ864d_yHgytXn-0ej",
+    "date": "2023-04-11",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "01:10.56"
+  },
+  {
+    "id": "-NVJ864gfSUBW4ScgOjp",
+    "date": "2023-04-13",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:13.02"
+  },
+  {
+    "id": "-NVJ864mr8jkd40GFtmB",
+    "date": "2023-04-27",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "02:22.19"
+  },
+  {
+    "id": "-NVJ864rocJaoPqms9cp",
+    "date": "2023-03-23",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:56.95"
+  },
+  {
+    "id": "-NVJ8655OEpbkkOd-C5j",
+    "date": "2023-01-19",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "02:25.56"
+  },
+  {
+    "id": "-NVJ865QZBCBi2F-A2d8",
+    "date": "2023-05-18",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "training",
+    "time": "01:14.53"
+  },
+  {
+    "id": "-NVJ865RKoS9zdNBO0Cp",
+    "date": "2023-01-05",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "01:24.38"
+  },
+  {
+    "id": "-NVJ865UPVA_F0yrSWfn",
+    "date": "2023-01-12",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "02:22.93"
+  },
+  {
+    "id": "-NVJ866NmOd23cAQXHuy",
+    "date": "2023-02-06",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "02:09.10"
+  },
+  {
+    "id": "-NVJ866P3kndkazuoz4_",
+    "competitionLocation": "London",
+    "competitionName": "Autumn Festival",
+    "competitionPlacement": 3,
+    "date": "2021-11-20",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:45.61"
+  },
+  {
+    "id": "-NVJ86790cGjDyNaVaAj",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "City Open",
+    "competitionPlacement": 2,
+    "date": "2020-06-11",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:39.75"
+  },
+  {
+    "id": "-NVJ86790cGjDyNaVaAk",
+    "competitionLocation": "Gothenburg",
+    "competitionName": "Regional Cup",
+    "competitionPlacement": 5,
+    "date": "2020-11-03",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:54.21"
+  },
+  {
+    "id": "-NVJ8687_KLjB7XU54fO",
+    "date": "2023-05-25",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "02:14.97"
+  },
+  {
+    "id": "-NVJ8688o5PduQDA4Vum",
+    "date": "2023-02-14",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "00:42.60"
+  },
+  {
+    "id": "-NVJ868DM3D4VrE9kS14",
+    "date": "2023-03-15",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "00:46.55"
+  },
+  {
+    "id": "-NVJ868ObbXpN_S28uBr",
+    "date": "2023-04-06",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "01:19.89"
+  },
+  {
+    "id": "-NVJ868PpH4HWb-lVwlh",
+    "date": "2023-04-27",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "00:59.21"
+  },
+  {
+    "id": "-NVJ8695npUNNtLDbnmF",
+    "date": "2023-05-08",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "00:59.77"
+  },
+  {
+    "id": "-NVJ8696d4UNdtw5p3Yu",
+    "date": "2023-02-20",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "00:54.72"
+  },
+  {
+    "id": "-NVJ8699E43TDJbjImUs",
+    "date": "2023-05-06",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "01:54.15"
+  },
+  {
+    "id": "-NVJ869N0KcNiBjGJH6_",
+    "date": "2023-05-12",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "02:18.77"
+  },
+  {
+    "id": "-NVJ869vk0rU3q9YuozC",
+    "date": "2023-02-23",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "02:25.76"
+  },
+  {
+    "id": "-NVJ86A4Fn7T1VaY5VpG",
+    "date": "2023-02-17",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:19.49"
+  },
+  {
+    "id": "-NVJ86AifPUFd63eWDll",
+    "date": "2023-01-01",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "02:13.98"
+  },
+  {
+    "id": "-NVJ86AifPUFd63eWDlm",
+    "date": "2023-03-13",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "00:58.57"
+  },
+  {
+    "id": "-NVJ86AnNOvV-lscDE1y",
+    "date": "2023-02-03",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "02:19.05"
+  },
+  {
+    "id": "-NVJ86BWRvIk-bKeGCzU",
+    "date": "2023-01-14",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "01:37.85"
+  },
+  {
+    "id": "-NVJ86BXUO21XBP8NgH_",
+    "date": "2023-01-09",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "00:43.24"
+  },
+  {
+    "id": "-NVJ86CE3DoWON5wnEdg",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Regional Championship",
+    "competitionPlacement": 3,
+    "date": "2021-06-01",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "01:00.87"
+  },
+  {
+    "id": "-NVJ86CIYiElqEeGBMFw",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Helsinki International",
+    "competitionPlacement": 6,
+    "date": "2022-01-12",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "02:25.15"
+  },
+  {
+    "id": "-NVJ86CVd2Me4mQhxUoz",
+    "date": "2023-03-06",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "01:20.06"
+  },
+  {
+    "id": "-NVJ86D8Xvh_sJOsCdtU",
+    "competitionLocation": "Los Angeles",
+    "competitionName": "Los Angeles Classic",
+    "competitionPlacement": 6,
+    "date": "2022-05-29",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:55.87"
+  },
+  {
+    "id": "-NVJ86DE_k6p6k7wawht",
+    "competitionLocation": "Montreal",
+    "competitionName": "Montreal Masters",
+    "competitionPlacement": 2,
+    "date": "2021-10-01",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:05.23"
+  },
+  {
+    "id": "-NVJ86DvxC6BqLvx_Hdk",
+    "competitionLocation": "Berlin",
+    "competitionName": "Fall Invitational",
+    "competitionPlacement": 4,
+    "date": "2022-11-05",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:39.91"
+  },
+  {
+    "id": "-NVJ86DwcccSxXPtlglL",
+    "competitionLocation": "Hamburg",
+    "competitionName": "Fall Classic",
+    "competitionPlacement": 3,
+    "date": "2021-10-23",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:33.76"
+  },
+  {
+    "id": "-NVJ86E4GeLC4Gt5tYle",
+    "date": "2023-04-24",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "02:01.11"
+  },
+  {
+    "id": "-NVJ86E4GeLC4Gt5tYlf",
+    "competitionLocation": "Aalborg",
+    "competitionName": "Regional Championship",
+    "competitionPlacement": 1,
+    "date": "2023-05-06",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:29.41"
+  },
+  {
+    "id": "-NVJ86Epix9vd5Nf2gWQ",
+    "date": "2023-05-10",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "00:55.21"
+  },
+  {
+    "id": "-NVJ86Eq_0fDIzGHTUVD",
+    "date": "2023-05-03",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "02:03.96"
+  },
+  {
+    "id": "-NVJ86FYsY5qI3h2fZ6w",
+    "date": "2023-02-18",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "02:02.28"
+  },
+  {
+    "id": "-NVJ86FZd8P1FdMEGlHR",
+    "date": "2023-05-03",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:33.39"
+  },
+  {
+    "id": "-NVJ86GGHHIpCxYK8iBK",
+    "date": "2023-01-15",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "00:59.88"
+  },
+  {
+    "id": "-NVJ86GVd9BEFEaunsay",
+    "date": "2023-01-16",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "01:34.22"
+  },
+  {
+    "id": "-NVJ86GzIS8ap6XjqBdv",
+    "date": "2023-05-01",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "02:16.84"
+  },
+  {
+    "id": "-NVJ86HPgveD_n_S7Ci-",
+    "date": "2023-03-20",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:01.34"
+  },
+  {
+    "id": "-NVJ86IMBiH_X4Di37F2",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Nordic Open",
+    "competitionPlacement": 2,
+    "date": "2021-01-15",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:37.91"
+  },
+  {
+    "id": "-NVJ86IMBiH_X4Di37F3",
+    "competitionLocation": "Cologne",
+    "competitionName": "Spring Sprint",
+    "competitionPlacement": 5,
+    "date": "2022-05-08",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:31.45"
+  },
+  {
+    "id": "-NVJ86IONHxNLvvhcfAE",
+    "competitionLocation": "Oslo",
+    "competitionName": "Winter Games",
+    "competitionPlacement": 4,
+    "date": "2022-02-27",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:51.03"
+  },
+  {
+    "id": "-NVJ86IWs8NBt9BLoG6g",
+    "competitionLocation": "Dublin",
+    "competitionName": "Summer Games",
+    "competitionPlacement": 1,
+    "date": "2022-07-23",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:23.12"
+  },
+  {
+    "id": "-NVJ86Iy6lB_7HbjqxCb",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "International Games",
+    "competitionPlacement": 3,
+    "date": "2022-05-12",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:42.56"
+  },
+  {
+    "id": "-NVJ86J-a5ORciqFEzHC",
+    "competitionLocation": "Paris",
+    "competitionName": "Summer Open",
+    "competitionPlacement": 2,
+    "date": "2022-06-20",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:39.68"
+  },
+  {
+    "id": "-NVJ86J4VE5AF3A8J7pk",
+    "competitionLocation": "Aarhus",
+    "competitionName": "Spring Open",
+    "competitionPlacement": 1,
+    "date": "2023-03-18",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:32.46"
+  },
+  {
+    "id": "-NVJ86JDubSrISwPj2me",
+    "competitionLocation": "Berlin",
+    "competitionName": "Halloween Open",
+    "competitionPlacement": 7,
+    "date": "2021-10-31",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "01:12.44"
+  },
+  {
+    "id": "-NVJ86JDubSrISwPj2mf",
+    "competitionLocation": "Aalborg",
+    "competitionName": "State Games",
+    "competitionPlacement": 3,
+    "date": "2022-09-23",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:43.91"
+  },
+  {
+    "id": "-NVJ86JDubSrISwPj2mg",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "National Open",
+    "competitionPlacement": 1,
+    "date": "2021-08-29",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:32.18"
+  },
+  {
+    "id": "-NVJ86JvqYCMe0Kxn_UW",
+    "competitionLocation": "Berlin",
+    "competitionName": "Spring Sprint",
+    "competitionPlacement": 3,
+    "date": "2023-04-03",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:49.27"
+  },
+  {
+    "id": "-NVJ86JvqYCMe0Kxn_UX",
+    "competitionLocation": "Barcelona",
+    "competitionName": "Summer Sprint",
+    "competitionPlacement": 7,
+    "date": "2023-07-02",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:40.56"
+  },
+  {
+    "id": "-NVJ86JvqYCMe0Kxn_UY",
+    "competitionLocation": "London",
+    "competitionName": "Holiday Classic",
+    "competitionPlacement": 4,
+    "date": "2022-12-25",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:28.34"
+  },
+  {
+    "id": "-NVJ86JvqYCMe0Kxn_UZ",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Mid-Winter Classic",
+    "competitionPlacement": 6,
+    "date": "2023-02-08",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "01:23.41"
+  },
+  {
+    "id": "-NVJ86JvqYCMe0Kxn_U_",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Winter Invitational",
+    "competitionPlacement": 4,
+    "date": "2022-12-18",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "01:02.35"
+  },
+  {
+    "id": "-NVJ86JwD0Tnc9bo8Piy",
+    "competitionLocation": "Munich",
+    "competitionName": "Autumn Run",
+    "competitionPlacement": 6,
+    "date": "2022-10-09",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:35.90"
+  },
+  {
+    "id": "-NVJ86KdL3rG5cyNh0z1",
+    "competitionLocation": "Oslo",
+    "competitionName": "Winter Games",
+    "competitionPlacement": 1,
+    "date": "2022-01-29",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:23.56"
+  },
+  {
+    "id": "-NVJ86KdL3rG5cyNh0z2",
+    "competitionLocation": "Chicago",
+    "competitionName": "Thanksgiving Run",
+    "competitionPlacement": 5,
+    "date": "2023-11-24",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:29.89"
+  },
+  {
+    "id": "-NVJ86Ke5OfZdAac-4b9",
+    "competitionLocation": "Hamburg",
+    "competitionName": "Autumn Classic",
+    "competitionPlacement": 3,
+    "date": "2023-09-10",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:26.90"
+  },
+  {
+    "id": "-NVJ86Kue_SsfJnwrCDV",
+    "competitionLocation": "Reykjavik",
+    "competitionName": "Winter Games",
+    "competitionPlacement": 1,
+    "date": "2024-02-18",
+    "discipline": "breaststroke",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:23.78"
+  },
+  {
+    "id": "-NVJ86L3jBgqugfgKOBO",
+    "competitionLocation": "Reykjavik",
+    "competitionName": "Frozen Frenzy",
+    "competitionPlacement": 1,
+    "date": "2023-01-14",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "01:15.62"
+  },
+  {
+    "id": "-NVJ86LKA1Kuo5PxGALh",
+    "competitionLocation": "Vienna",
+    "competitionName": "Autumn Classic",
+    "competitionPlacement": 6,
+    "date": "2022-09-04",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:34.78"
+  },
+  {
+    "id": "-NVJ86Lb-WK1r5HFdDtn",
+    "competitionLocation": "Oslo",
+    "competitionName": "Summer Sizzler",
+    "competitionPlacement": 2,
+    "date": "2022-08-20",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:44.73"
+  },
+  {
+    "id": "-NVJ86M1ZwSNzb4Pb4jV",
+    "date": "2023-03-27",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:10.57"
+  },
+  {
+    "id": "-NVJ86MMyvx_wk2gRxIf",
+    "date": "2023-02-02",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "01:11.11"
+  },
+  {
+    "id": "-NVJ86MjD8U5hFVc7xT0",
+    "date": "2023-05-21",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "00:58.72"
+  },
+  {
+    "id": "-NVJ86MjD8U5hFVc7xT1",
+    "competitionLocation": "Reykjavik",
+    "competitionName": "Summer Run",
+    "competitionPlacement": 2,
+    "date": "2022-06-11",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:25.89"
+  },
+  {
+    "id": "-NVJ86MkeoddJ54gABBC",
+    "competitionLocation": "Hamburg",
+    "competitionName": "Spring Sprint",
+    "competitionPlacement": 4,
+    "date": "2022-04-03",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:30.45"
+  },
+  {
+    "id": "-NVJ86N4QJxUAbHPinl7",
+    "competitionLocation": "Amsterdam",
+    "competitionName": "Autumn Classic",
+    "competitionPlacement": 5,
+    "date": "2022-11-09",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:58.94"
+  },
+  {
+    "id": "-NVJ86NM07FJnH7JPElA",
+    "competitionLocation": "Berlin",
+    "competitionName": "City Run",
+    "competitionPlacement": 7,
+    "date": "2023-08-27",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:38.25"
+  },
+  {
+    "id": "-NVJ86NNIv-uhRn7bkG3",
+    "competitionLocation": "Rome",
+    "competitionName": "Summer Classic",
+    "competitionPlacement": 2,
+    "date": "2023-06-18",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:25.77"
+  },
+  {
+    "id": "-NVJ86NVQuhBDyIleByH",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Winter Classic",
+    "competitionPlacement": 1,
+    "date": "2024-02-03",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:24.12"
+  },
+  {
+    "id": "-NVJ86NVQuhBDyIleByI",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Spring Games",
+    "competitionPlacement": 5,
+    "date": "2023-03-19",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:32.14"
+  },
+  {
+    "id": "-NVJ86NWtTBLyMIJHafe",
+    "competitionLocation": "Paris",
+    "competitionName": "Spring Breakout",
+    "competitionPlacement": 8,
+    "date": "2023-03-25",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "01:45.22"
+  },
+  {
+    "id": "-NVJ86Nj34EupUU3ACAJ",
+    "competitionLocation": "Amsterdam",
+    "competitionName": "Autumn Sprint",
+    "competitionPlacement": 4,
+    "date": "2023-11-11",
+    "discipline": "freestyle",
+    "memberId": "-KMN7Jc-iv_3j5PmgrT7",
+    "resultType": "competition",
+    "time": "00:27.93"
+  },
+  {
+    "id": "-NVJ86O6fzHGEPEd05hL",
+    "competitionLocation": "Aarhus",
+    "competitionName": "Spring Classic",
+    "competitionPlacement": 4,
+    "date": "2021-06-02",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:45.82"
+  },
+  {
+    "id": "-NVJ86O6fzHGEPEd05hM",
+    "competitionLocation": "Hamburg",
+    "competitionName": "Valentine's Day Games",
+    "competitionPlacement": 3,
+    "date": "2021-02-14",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:41.73"
+  },
+  {
+    "id": "-NVJ86OCqpxC9zs5pLDp",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Winter Open",
+    "competitionPlacement": 2,
+    "date": "2020-11-28",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:35.49"
+  },
+  {
+    "id": "-NVJ86OCqpxC9zs5pLDq",
+    "competitionLocation": "Oslo",
+    "competitionName": "Spring Games",
+    "competitionPlacement": 3,
+    "date": "2022-04-29",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:41.36"
+  },
+  {
+    "id": "-NVJ86ODiBGuMWBOGfD8",
+    "competitionLocation": "Dublin",
+    "competitionName": "Fall Fastlane",
+    "competitionPlacement": 7,
+    "date": "2022-10-01",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "02:12.83"
+  },
+  {
+    "id": "-NVJ86ORFl0hDhiPgD5w",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Winter Warriors",
+    "competitionPlacement": 3,
+    "date": "2022-12-07",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "01:12.16"
+  },
+  {
+    "id": "-NVJ86P-C8OTfWiln9MD",
+    "competitionLocation": "Berlin",
+    "competitionName": "Autumn Classic",
+    "competitionPlacement": 3,
+    "date": "2022-11-15",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:46.78"
+  },
+  {
+    "id": "-NVJ86P-C8OTfWiln9ME",
+    "competitionLocation": "Vienna",
+    "competitionName": "Spring Stampede",
+    "competitionPlacement": 2,
+    "date": "2023-04-20",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:47.89"
+  },
+  {
+    "id": "-NVJ86P-C8OTfWiln9MF",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Spring Fling",
+    "competitionPlacement": 6,
+    "date": "2022-03-26",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:42.93"
+  },
+  {
+    "id": "-NVJ86P0EfPZJxwS5Bsw",
+    "competitionLocation": "Berlin",
+    "competitionName": "Autumn Open",
+    "competitionPlacement": 1,
+    "date": "2021-09-20",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:29.13"
+  },
+  {
+    "id": "-NVJ86PAF27j53OyFQpF",
+    "competitionLocation": "Oslo",
+    "competitionName": "Winter Invitational",
+    "competitionPlacement": 2,
+    "date": "2021-12-01",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "01:12.48"
+  },
+  {
+    "id": "-NVJ86PCG5Wy36n0GEqD",
+    "competitionLocation": "Los Angeles",
+    "competitionName": "Summer Games",
+    "competitionPlacement": 4,
+    "date": "2021-08-05",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:54.32"
+  },
+  {
+    "id": "-NVJ86Pjn0SjUEs-kkpd",
+    "competitionLocation": "Aalborg",
+    "competitionName": "Fall Classic",
+    "competitionPlacement": 2,
+    "date": "2022-11-07",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:35.72"
+  },
+  {
+    "id": "-NVJ86Plg-0q3nBRsCef",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Summer Open",
+    "competitionPlacement": 5,
+    "date": "2022-08-15",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:47.62"
+  },
+  {
+    "id": "-NVJ86Plg-0q3nBRsCeg",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Regional Meet",
+    "competitionPlacement": 1,
+    "date": "2023-04-10",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:38.54"
+  },
+  {
+    "id": "-NVJ86PpykhEvOWNuaef",
+    "competitionLocation": "Stockholm",
+    "competitionName": "New Year Classic",
+    "competitionPlacement": 5,
+    "date": "2023-01-05",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:50.12"
+  },
+  {
+    "id": "-NVJ86PsM6HFayxP2kw_",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Spring Open",
+    "competitionPlacement": 1,
+    "date": "2023-03-09",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:30.01"
+  },
+  {
+    "id": "-NVJ86Q1sbadrYFyddWf",
+    "competitionLocation": "Paris",
+    "competitionName": "Summer Cup",
+    "competitionPlacement": 4,
+    "date": "2022-06-09",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:50.43"
+  },
+  {
+    "id": "-NVJ86QiOV452CEX0JA2",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "New Year's Classic",
+    "competitionPlacement": 1,
+    "date": "2020-01-02",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:34.21"
+  },
+  {
+    "id": "-NVJ86QjkJ7oXFCxFYtp",
+    "competitionLocation": "Hamburg",
+    "competitionName": "Winter Open",
+    "competitionPlacement": 3,
+    "date": "2020-12-12",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:39.71"
+  },
+  {
+    "id": "-NVJ86QlU6McApj_NMAS",
+    "competitionLocation": "Paris",
+    "competitionName": "Summer Games",
+    "competitionPlacement": 5,
+    "date": "2020-08-23",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:48.23"
+  },
+  {
+    "id": "-NVJ86QvclSk1AcRc848",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Winter Open",
+    "competitionPlacement": 5,
+    "date": "2021-02-15",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:59.84"
+  },
+  {
+    "id": "-NVJ86QvclSk1AcRc849",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Spring Classic",
+    "competitionPlacement": 2,
+    "date": "2021-03-27",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:32.16"
+  },
+  {
+    "id": "-NVJ86RMmcShRvxdmvcI",
+    "competitionLocation": "Chicago",
+    "competitionName": "Independence Day Games",
+    "competitionPlacement": 1,
+    "date": "2021-07-04",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:29.87"
+  },
+  {
+    "id": "-NVJ86RRNjjlQZnDSHYq",
+    "competitionLocation": "Aarhus",
+    "competitionName": "Spring Classic",
+    "competitionPlacement": 3,
+    "date": "2023-03-20",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:44.76"
+  },
+  {
+    "id": "-NVJ86RYiA-_Iz672GIO",
+    "competitionLocation": "Paris",
+    "competitionName": "Summer Classic",
+    "competitionPlacement": 6,
+    "date": "2021-06-14",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:54.67"
+  },
+  {
+    "id": "-NVJ86RcGnHaZIU-Lvh4",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Valentine's Day Games",
+    "competitionPlacement": 2,
+    "date": "2022-02-13",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:31.42"
+  },
+  {
+    "id": "-NVJ86Rdb4PTGxo8-7ol",
+    "competitionLocation": "Oslo",
+    "competitionName": "Spring Open",
+    "competitionPlacement": 1,
+    "date": "2022-05-16",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:28.96"
+  },
+  {
+    "id": "-NVJ86RvbG9C_sTH0yK8",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Regional Games",
+    "competitionPlacement": 2,
+    "date": "2022-05-22",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:40.88"
+  },
+  {
+    "id": "-NVJ86S7D6VojpyHegE5",
+    "competitionLocation": "New York City",
+    "competitionName": "Independence Cup",
+    "competitionPlacement": 4,
+    "date": "2022-07-04",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:47.35"
+  },
+  {
+    "id": "-NVJ86SAT5OL6nk0VnKq",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "National Games",
+    "competitionPlacement": 1,
+    "date": "2020-08-21",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:33.89"
+  },
+  {
+    "id": "-NVJ86SQkahWv1M_FXcf",
+    "competitionLocation": "Aalborg",
+    "competitionName": "State Open",
+    "competitionPlacement": 5,
+    "date": "2021-09-12",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:57.23"
+  },
+  {
+    "id": "-NVJ86SQkahWv1M_FXcg",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Winter Games",
+    "competitionPlacement": 3,
+    "date": "2022-01-10",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:45.28"
+  },
+  {
+    "id": "-NVJ86SRzqAUG1MvuOAK",
+    "competitionLocation": "Berlin",
+    "competitionName": "Halloween Cup",
+    "competitionPlacement": 8,
+    "date": "2022-10-30",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "01:27.12"
+  },
+  {
+    "id": "-NVJ86SdwenheJ53H_Sq",
+    "competitionLocation": "Aarhus",
+    "competitionName": "City Cup",
+    "competitionPlacement": 7,
+    "date": "2022-02-23",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "01:17.50"
+  },
+  {
+    "id": "-NVJ86T3sYvWY3gQ84JP",
+    "competitionLocation": "Malmö",
+    "competitionName": "State Open",
+    "competitionPlacement": 6,
+    "date": "2022-04-18",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "01:02.19"
+  },
+  {
+    "id": "-NVJ86T6PEwE2gsStrJc",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Summer Open",
+    "competitionPlacement": 4,
+    "date": "2021-07-12",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:42.69"
+  },
+  {
+    "id": "-NVJ86T7IExokximO8IT",
+    "competitionLocation": "Paris",
+    "competitionName": "Spring Cup",
+    "competitionPlacement": 5,
+    "date": "2022-05-30",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:51.34"
+  },
+  {
+    "id": "-NVJ86T9Zzn3ECwkj2LR",
+    "competitionLocation": "Stockholm",
+    "competitionName": "National Classic",
+    "competitionPlacement": 8,
+    "date": "2021-08-29",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "01:18.65"
+  },
+  {
+    "id": "-NVJ86THoKQVqeoynOz3",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "European Classic",
+    "competitionPlacement": 2,
+    "date": "2022-03-14",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:39.92"
+  },
+  {
+    "id": "-NVJ86TUeOlprtrB5A_0",
+    "competitionLocation": "Hamburg",
+    "competitionName": "City Games",
+    "competitionPlacement": 1,
+    "date": "2021-06-20",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:36.77"
+  },
+  {
+    "id": "-NVJ86U6Qq5ETIosPgQb",
+    "competitionLocation": "Boston",
+    "competitionName": "Fall Games",
+    "competitionPlacement": 6,
+    "date": "2022-09-08",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:51.36"
+  },
+  {
+    "id": "-NVJ86U6Qq5ETIosPgQc",
+    "competitionLocation": "Oslo",
+    "competitionName": "State Games",
+    "competitionPlacement": 2,
+    "date": "2021-09-18",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:40.55"
+  },
+  {
+    "id": "-NVJ86U7c0ukV5YrCmWH",
+    "competitionLocation": "Aalborg",
+    "competitionName": "Regional Cup",
+    "competitionPlacement": 3,
+    "date": "2021-11-07",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "00:48.78"
+  },
+  {
+    "id": "-NVJ86UCc-HUMA5Y4Bw5",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Stockholm Open",
+    "competitionPlacement": 2,
+    "date": "2021-03-22",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "01:55.10"
+  },
+  {
+    "id": "-NVJ86UHu4SIim-2qXBD",
+    "competitionLocation": "Berlin",
+    "competitionName": "Berlin Summer Games",
+    "competitionPlacement": 6,
+    "date": "2020-07-06",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "02:25.90"
+  },
+  {
+    "id": "-NVJ86UQUA9pUuLF8J6e",
+    "competitionLocation": "Budapest",
+    "competitionName": "Budapest Cup",
+    "competitionPlacement": 1,
+    "date": "2022-09-12",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "00:50.80"
+  },
+  {
+    "id": "-NVJ86UmPa9iCUNBmMpr",
+    "competitionLocation": "Toronto",
+    "competitionName": "Ice Skating Classic",
+    "competitionPlacement": 5,
+    "date": "2023-01-08",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "02:15.40"
+  },
+  {
+    "id": "-NVJ86V2FfM3VIGuH4nE",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Winter Classic",
+    "competitionPlacement": 3,
+    "date": "2022-12-04",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "00:39.82"
+  },
+  {
+    "id": "-NVJ86V2FfM3VIGuH4nF",
+    "competitionLocation": "Rome",
+    "competitionName": "Rome Invitational",
+    "competitionPlacement": 4,
+    "date": "2021-05-18",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "02:05.60"
+  },
+  {
+    "id": "-NVJ86V3ol5ulT6qc9Cy",
+    "competitionLocation": "Oslo",
+    "competitionName": "Winter Classic",
+    "competitionPlacement": 3,
+    "date": "2022-12-01",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "01:35.70"
+  },
+  {
+    "id": "-NVJ86V9JzphpuOObhzv",
+    "competitionLocation": "Athens",
+    "competitionName": "Athens Cup",
+    "competitionPlacement": 8,
+    "date": "2023-04-30",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "02:30.00"
+  },
+  {
+    "id": "-NVJ86VFd1ubmQyhz9vu",
+    "competitionLocation": "Zurich",
+    "competitionName": "European Winter Games",
+    "competitionPlacement": 7,
+    "date": "2020-12-12",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "01:50.25"
+  },
+  {
+    "id": "-NVJ86Vgi17D02z5aL78",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Helsinki Classic",
+    "competitionPlacement": 2,
+    "date": "2022-03-06",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "01:25.35"
+  },
+  {
+    "id": "-NVJ86VwA2BG58P8lqCA",
+    "competitionLocation": "Oslo",
+    "competitionName": "Oslo International",
+    "competitionPlacement": 5,
+    "date": "2022-06-07",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "02:05.15"
+  },
+  {
+    "id": "-NVJ86Vxs8ccvlCOon5T",
+    "competitionLocation": "Paris",
+    "competitionName": "European Championships",
+    "competitionPlacement": 1,
+    "date": "2020-08-23",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "01:50.75"
+  },
+  {
+    "id": "-NVJ86W2-vFQ4q4fIBJb",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Copenhagen Open",
+    "competitionPlacement": 3,
+    "date": "2021-02-14",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "02:15.50"
+  },
+  {
+    "id": "-NVJ86W3C3nuosH-XUV8",
+    "competitionLocation": "London",
+    "competitionName": "London Classic",
+    "competitionPlacement": 2,
+    "date": "2023-04-01",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "00:45.25"
+  },
+  {
+    "id": "-NVJ86WgqT3F3PX4voAz",
+    "competitionLocation": "Madrid",
+    "competitionName": "Madrid Masters",
+    "competitionPlacement": 7,
+    "date": "2020-11-11",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "02:20.40"
+  },
+  {
+    "id": "-NVJ86WgqT3F3PX4voB-",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Winter Games",
+    "competitionPlacement": 4,
+    "date": "2023-02-17",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "00:55.90"
+  },
+  {
+    "id": "-NVJ86WmN5L4T6tPJ1fd",
+    "competitionLocation": "Berlin",
+    "competitionName": "World Cup Finals",
+    "competitionPlacement": 8,
+    "date": "2022-10-10",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "01:10.85"
+  },
+  {
+    "id": "-NVJ86X_ZcD9HYlKWSSc",
+    "competitionLocation": "Boston",
+    "competitionName": "Boston Classic",
+    "competitionPlacement": 2,
+    "date": "2022-08-13",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:10.85"
+  },
+  {
+    "id": "-NVJ86X_ZcD9HYlKWSSd",
+    "competitionLocation": "Nanjing",
+    "competitionName": "World Indoor Championships",
+    "competitionPlacement": 1,
+    "date": "2023-03-17",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "00:57.23"
+  },
+  {
+    "id": "-NVJ86X_ZcD9HYlKWSSe",
+    "competitionLocation": "Los Angeles",
+    "competitionName": "Olympic Trials",
+    "competitionPlacement": 1,
+    "date": "2021-09-05",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "00:38.50"
+  },
+  {
+    "id": "-NVJ86Xa6vGNfLVKIcXa",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Copenhagen Cup",
+    "competitionPlacement": 3,
+    "date": "2022-03-19",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "competition",
+    "time": "02:05.70"
+  },
+  {
+    "id": "-NVJ86YHPXwuTgZ8k9EX",
+    "competitionLocation": "Oslo",
+    "competitionName": "Oslo Winter Games",
+    "competitionPlacement": 7,
+    "date": "2020-02-02",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "02:22.99"
+  },
+  {
+    "id": "-NVJ86YJj3bBKSKluov5",
+    "competitionLocation": "Cologne",
+    "competitionName": "Cologne Open",
+    "competitionPlacement": 8,
+    "date": "2021-06-28",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:50.79"
+  },
+  {
+    "id": "-NVJ86YJj3bBKSKluov6",
+    "competitionLocation": "Amsterdam",
+    "competitionName": "Amsterdam Championships",
+    "competitionPlacement": 5,
+    "date": "2020-10-03",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:20.36"
+  },
+  {
+    "id": "-NVJ86YJj3bBKSKluov7",
+    "competitionLocation": "Munich",
+    "competitionName": "Munich Cup",
+    "competitionPlacement": 6,
+    "date": "2021-09-22",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:15.42"
+  },
+  {
+    "id": "-NVJ86YK6fnv-mkO_dgF",
+    "competitionLocation": "Toronto",
+    "competitionName": "Toronto Invitational",
+    "competitionPlacement": 4,
+    "date": "2022-11-05",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:30.15"
+  },
+  {
+    "id": "-NVJ86YNWuVvK9QmGCvX",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "New Year's Invitational",
+    "competitionPlacement": 2,
+    "date": "2023-01-01",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:01.47"
+  },
+  {
+    "id": "-NVJ86ZCt8OCBd_-zFT3",
+    "competitionLocation": "Houston",
+    "competitionName": "Houston Spring Invitational",
+    "competitionPlacement": 7,
+    "date": "2020-04-05",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:48.80"
+  },
+  {
+    "id": "-NVJ86ZCt8OCBd_-zFT4",
+    "competitionLocation": "Berlin",
+    "competitionName": "Berlin Indoor Classic",
+    "competitionPlacement": 6,
+    "date": "2021-02-28",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:20.50"
+  },
+  {
+    "id": "-NVJ86ZCt8OCBd_-zFT5",
+    "competitionLocation": "Oslo",
+    "competitionName": "Oslo Winter Games",
+    "competitionPlacement": 2,
+    "date": "2022-10-18",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:05.25"
+  },
+  {
+    "id": "-NVJ86ZCt8OCBd_-zFT6",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Stockholm Grand Prix",
+    "competitionPlacement": 1,
+    "date": "2022-05-18",
+    "discipline": "backstroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "00:55.12"
+  },
+  {
+    "id": "-NVJ86ZCt8OCBd_-zFT7",
+    "competitionLocation": "Tokyo",
+    "competitionName": "Tokyo International Open",
+    "competitionPlacement": 1,
+    "date": "2023-05-07",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "00:58.15"
+  },
+  {
+    "id": "-NVJ86ZG9kDVO6OBJqAP",
+    "competitionLocation": "Dublin",
+    "competitionName": "Dublin Autumn Open",
+    "competitionPlacement": 4,
+    "date": "2021-11-11",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:40.10"
+  },
+  {
+    "id": "-NVJ86ZulT1eoXKJQIdo",
+    "competitionLocation": "Montreal",
+    "competitionName": "Montreal Summer Classic",
+    "competitionPlacement": 8,
+    "date": "2020-08-23",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "02:00.30"
+  },
+  {
+    "id": "-NVJ86ZulT1eoXKJQIdp",
+    "competitionLocation": "Lausanne",
+    "competitionName": "Lausanne Diamond League",
+    "competitionPlacement": 3,
+    "date": "2023-01-17",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:00.80"
+  },
+  {
+    "id": "-NVJ86Zww7suPn4FaAvI",
+    "competitionLocation": "London",
+    "competitionName": "London Grand Prix",
+    "competitionPlacement": 1,
+    "date": "2022-07-03",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "00:50.90"
+  },
+  {
+    "id": "-NVJ86Zxahe6Q0lnKGVq",
+    "competitionLocation": "Madrid",
+    "competitionName": "Madrid Winter Challenge",
+    "competitionPlacement": 3,
+    "date": "2020-12-20",
+    "discipline": "breaststroke",
+    "memberId": "-KMNDRq-ry_2d6PqheG1",
+    "resultType": "competition",
+    "time": "01:10.70"
+  },
+  {
+    "id": "-NVJ86_sMRlvEzuYJOfI",
+    "competitionLocation": "Hamburg",
+    "competitionName": "Regional Championship",
+    "competitionPlacement": 6,
+    "date": "2021-11-25",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "01:30.67"
+  },
+  {
+    "id": "-NVJ86_sMRlvEzuYJOfJ",
+    "competitionLocation": "Barcelona",
+    "competitionName": "Summer Classic",
+    "competitionPlacement": 2,
+    "date": "2022-08-07",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:26.98"
+  },
+  {
+    "id": "-NVJ86_sMRlvEzuYJOfK",
+    "competitionLocation": "Gothenburg",
+    "competitionName": "Winter Run",
+    "competitionPlacement": 5,
+    "date": "2022-11-19",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:35.23"
+  },
+  {
+    "id": "-NVJ86_sMRlvEzuYJOfL",
+    "date": "2023-02-18",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "training",
+    "time": "01:55.30"
+  },
+  {
+    "id": "-NVJ86a_eJpQQp_Zi8y2",
+    "competitionLocation": "Madrid",
+    "competitionName": "Spring Classic",
+    "competitionPlacement": 7,
+    "date": "2023-04-09",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:41.02"
+  },
+  {
+    "id": "-NVJ86a_eJpQQp_Zi8y3",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Valentine's Sprint",
+    "competitionPlacement": 1,
+    "date": "2023-02-13",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:24.56"
+  },
+  {
+    "id": "-NVJ86adQJ33mQvfOkS1",
+    "competitionLocation": "Krakow",
+    "competitionName": "City Classic",
+    "competitionPlacement": 2,
+    "date": "2024-02-25",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:27.46"
+  },
+  {
+    "id": "-NVJ86aiHGILxf-O7CRm",
+    "competitionLocation": "Budapest",
+    "competitionName": "Autumn Run",
+    "competitionPlacement": 4,
+    "date": "2023-09-23",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:29.81"
+  },
+  {
+    "id": "-NVJ86ajYDqD2XqTQ4pQ",
+    "competitionLocation": "Zurich",
+    "competitionName": "Summer Games",
+    "competitionPlacement": 6,
+    "date": "2023-07-02",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:37.56"
+  },
+  {
+    "id": "-NVJ86asAFhXc9cPCWJW",
+    "competitionLocation": "Hamburg",
+    "competitionName": "Winter Run",
+    "competitionPlacement": 1,
+    "date": "2022-02-26",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:25.97"
+  },
+  {
+    "id": "-NVJ86bMGAIi2ulYokhQ",
+    "competitionLocation": "Prague",
+    "competitionName": "Winter Sprint",
+    "competitionPlacement": 8,
+    "date": "2023-12-03",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:46.21"
+  },
+  {
+    "id": "-NVJ86bZF3UFcCUy9jRH",
+    "competitionLocation": "Lyon",
+    "competitionName": "Spring Games",
+    "competitionPlacement": 4,
+    "date": "2022-06-04",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:31.59"
+  },
+  {
+    "id": "-NVJ86bZF3UFcCUy9jRI",
+    "competitionLocation": "Cologne",
+    "competitionName": "Autumn Sprint",
+    "competitionPlacement": 8,
+    "date": "2022-09-17",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:46.75"
+  },
+  {
+    "id": "-NVJ86bbFonN4tiBoW3o",
+    "competitionLocation": "Brussels",
+    "competitionName": "Spring Run",
+    "competitionPlacement": 3,
+    "date": "2024-05-19",
+    "discipline": "backstroke",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:30.89"
+  },
+  {
+    "id": "-NVJ86bpWU38ry2_3AsJ",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Spring Run",
+    "competitionPlacement": 1,
+    "date": "2023-03-18",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:23.92"
+  },
+  {
+    "id": "-NVJ86c6MQLFMScKrbGb",
+    "competitionLocation": "Rome",
+    "competitionName": "Summer Classic",
+    "competitionPlacement": 5,
+    "date": "2023-06-10",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:34.86"
+  },
+  {
+    "id": "-NVJ86cEcHjuRpEJghyp",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Summer Sprint",
+    "competitionPlacement": 2,
+    "date": "2023-08-26",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:27.81"
+  },
+  {
+    "id": "-NVJ86cGtWyoD36MJ2_g",
+    "competitionLocation": "Oslo",
+    "competitionName": "Winter Classic",
+    "competitionPlacement": 3,
+    "date": "2023-01-14",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:28.75"
+  },
+  {
+    "id": "-NVJ86cgjfuxz_NVlDly",
+    "competitionLocation": "Edinburgh",
+    "competitionName": "Winter Run",
+    "competitionPlacement": 7,
+    "date": "2024-02-03",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:42.19"
+  },
+  {
+    "id": "-NVJ86cqn2ldcZ7utzRx",
+    "competitionLocation": "Munich",
+    "competitionName": "Autumn Classic",
+    "competitionPlacement": 6,
+    "date": "2023-10-28",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:38.22"
+  },
+  {
+    "id": "-NVJ86dKzPXZ-EgonECE",
+    "competitionLocation": "Prague",
+    "competitionName": "European Indoor Championships",
+    "competitionPlacement": 5,
+    "date": "2023-03-05",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:45.90"
+  },
+  {
+    "id": "-NVJ86dKzPXZ-EgonECF",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Helsinki Winter Games",
+    "competitionPlacement": 3,
+    "date": "2022-01-23",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:02.70"
+  },
+  {
+    "id": "-NVJ86dKzPXZ-EgonECG",
+    "competitionLocation": "Montreal",
+    "competitionName": "Montreal Masters",
+    "competitionPlacement": 2,
+    "date": "2021-09-12",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:18.60"
+  },
+  {
+    "id": "-NVJ86dKzPXZ-EgonECH",
+    "competitionLocation": "Paris",
+    "competitionName": "Spring Games",
+    "competitionPlacement": 4,
+    "date": "2024-05-11",
+    "discipline": "freestyle",
+    "memberId": "-KMN5Dw-ju_9f6TlqnS8",
+    "resultType": "competition",
+    "time": "00:31.97"
+  },
+  {
+    "id": "-NVJ86dhq7os6C2gWP9i",
+    "competitionLocation": "Lisbon",
+    "competitionName": "Lisbon Open",
+    "competitionPlacement": 7,
+    "date": "2021-04-22",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:55.50"
+  },
+  {
+    "id": "-NVJ86dpNLlqmpCYLKyl",
+    "competitionLocation": "Berlin",
+    "competitionName": "World Cup Final",
+    "competitionPlacement": 4,
+    "date": "2023-02-18",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:15.40"
+  },
+  {
+    "id": "-NVJ86e4WNUpFm8al81y",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Stockholm Spring Classic",
+    "competitionPlacement": 4,
+    "date": "2022-04-20",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:40.75"
+  },
+  {
+    "id": "-NVJ86e4WNUpFm8al81z",
+    "competitionLocation": "Los Angeles",
+    "competitionName": "Los Angeles Summer Games",
+    "competitionPlacement": 1,
+    "date": "2022-08-14",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "00:51.20"
+  },
+  {
+    "id": "-NVJ86e4WNUpFm8al82-",
+    "competitionLocation": "New York",
+    "competitionName": "New York City Grand Prix",
+    "competitionPlacement": 8,
+    "date": "2022-09-01",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "02:10.20"
+  },
+  {
+    "id": "-NVJ86e5V9N7Eaa5pObm",
+    "competitionLocation": "Budapest",
+    "competitionName": "World Championships",
+    "competitionPlacement": 2,
+    "date": "2023-05-01",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:05.80"
+  },
+  {
+    "id": "-NVJ86eRLeLHwmEiGmTg",
+    "competitionLocation": "London",
+    "competitionName": "London Open",
+    "competitionPlacement": 3,
+    "date": "2020-07-12",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:55.20"
+  },
+  {
+    "id": "-NVJ86ec7573YbxFLVo5",
+    "competitionLocation": "Paris",
+    "competitionName": "Paris Cup",
+    "competitionPlacement": 5,
+    "date": "2022-06-05",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:18.50"
+  },
+  {
+    "id": "-NVJ86ewXjkb5_OkpAEu",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Copenhagen Invitational",
+    "competitionPlacement": 2,
+    "date": "2021-10-10",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:01.30"
+  },
+  {
+    "id": "-NVJ86ewXjkb5_OkpAEv",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Helsinki Grand Prix",
+    "competitionPlacement": 1,
+    "date": "2021-05-02",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "00:45.00"
+  },
+  {
+    "id": "-NVJ86ewXjkb5_OkpAEw",
+    "competitionLocation": "Rome",
+    "competitionName": "Rome Championships",
+    "competitionPlacement": 6,
+    "date": "2020-11-24",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:25.60"
+  },
+  {
+    "id": "-NVJ86eysRLwJA66Hu7U",
+    "competitionLocation": "Athens",
+    "competitionName": "Athens Classic",
+    "competitionPlacement": 8,
+    "date": "2023-03-15",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "02:10.50"
+  },
+  {
+    "id": "-NVJ86fyIULdzmnDpMyT",
+    "competitionLocation": "Eugene",
+    "competitionName": "World Outdoor Championships",
+    "competitionPlacement": 7,
+    "date": "2022-09-08",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:35.80"
+  },
+  {
+    "id": "-NVJ86gFcjEYzkqC66vN",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Helsinki Open",
+    "competitionPlacement": 2,
+    "date": "2022-06-25",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:45.12"
+  },
+  {
+    "id": "-NVJ86gFcjEYzkqC66vO",
+    "competitionLocation": "Madrid",
+    "competitionName": "Madrid Open",
+    "competitionPlacement": 4,
+    "date": "2020-12-05",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:52.40"
+  },
+  {
+    "id": "-NVJ86gFcjEYzkqC66vP",
+    "competitionLocation": "Dubai",
+    "competitionName": "World Championships",
+    "competitionPlacement": 1,
+    "date": "2023-03-19",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "00:59.78"
+  },
+  {
+    "id": "-NVJ86gG45QkjL519NLC",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Stockholm Winter Games",
+    "competitionPlacement": 6,
+    "date": "2020-11-08",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "02:25.83"
+  },
+  {
+    "id": "-NVJ86gbVKe9H4Z4kqG2",
+    "competitionLocation": "Berlin",
+    "competitionName": "New Year Cup",
+    "competitionPlacement": 5,
+    "date": "2023-01-02",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:55.44"
+  },
+  {
+    "id": "-NVJ86gxokVNDQsXov5c",
+    "competitionLocation": "Rome",
+    "competitionName": "Rome Classic",
+    "competitionPlacement": 8,
+    "date": "2021-09-01",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "02:30.02"
+  },
+  {
+    "id": "-NVJ86gzi7Cfp3oPuTfV",
+    "competitionLocation": "Zurich",
+    "competitionName": "Zurich Open",
+    "competitionPlacement": 4,
+    "date": "2022-12-10",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:28.71"
+  },
+  {
+    "id": "-NVJ86hWWeqZc0Rc7T2x",
+    "competitionLocation": "Montreal",
+    "competitionName": "Montreal Grand Prix",
+    "competitionPlacement": 7,
+    "date": "2020-08-20",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:50.13"
+  },
+  {
+    "id": "-NVJ86hdKs9qlDQkJt2j",
+    "competitionLocation": "Cologne",
+    "competitionName": "Valentine's Cup",
+    "competitionPlacement": 6,
+    "date": "2021-02-14",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:42.98"
+  },
+  {
+    "id": "-NVJ86hdKs9qlDQkJt2k",
+    "competitionLocation": "Munich",
+    "competitionName": "May Day Dash",
+    "competitionPlacement": 2,
+    "date": "2021-05-01",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:28.77"
+  },
+  {
+    "id": "-NVJ86hdKs9qlDQkJt2l",
+    "competitionLocation": "Doha",
+    "competitionName": "Asian Games",
+    "competitionPlacement": 2,
+    "date": "2022-04-07",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "01:10.60"
+  },
+  {
+    "id": "-NVJ86heJuhGzj-_iEKX",
+    "competitionLocation": "Lisbon",
+    "competitionName": "Lisbon International Cup",
+    "competitionPlacement": 1,
+    "date": "2021-11-23",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "competition",
+    "time": "00:58.22"
+  },
+  {
+    "id": "-NVJ86hvSPkw2inGIu2R",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Summer Smash",
+    "competitionPlacement": 4,
+    "date": "2021-08-14",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:31.64"
+  },
+  {
+    "id": "-NVJ86iQ_ru8KwxjHyvS",
+    "competitionLocation": "Reykjavik",
+    "competitionName": "Ice Breaker",
+    "competitionPlacement": 8,
+    "date": "2022-02-12",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:52.44"
+  },
+  {
+    "id": "-NVJ86iTkyxgPRwgkcwl",
+    "competitionLocation": "Nice",
+    "competitionName": "Sunset Sprint",
+    "competitionPlacement": 6,
+    "date": "2022-08-20",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:41.22"
+  },
+  {
+    "id": "-NVJ86iUwxCWNfGrjizP",
+    "competitionLocation": "Vienna",
+    "competitionName": "Spring Fling",
+    "competitionPlacement": 3,
+    "date": "2022-05-07",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:30.56"
+  },
+  {
+    "id": "-NVJ86ijPFnqGt_uBBdP",
+    "competitionLocation": "Riga",
+    "competitionName": "Winter Blast",
+    "competitionPlacement": 5,
+    "date": "2023-02-18",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:35.29"
+  },
+  {
+    "id": "-NVJ86ijPFnqGt_uBBdQ",
+    "competitionLocation": "Berlin",
+    "competitionName": "Autumn Classic",
+    "competitionPlacement": 2,
+    "date": "2022-11-12",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:28.46"
+  },
+  {
+    "id": "-NVJ86isPlRbMy_-xJdV",
+    "competitionLocation": "Paris",
+    "competitionName": "Spring Race",
+    "competitionPlacement": 5,
+    "date": "2021-03-20",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:38.22"
+  },
+  {
+    "id": "-NVJ86j96-cIChuhV1is",
+    "competitionLocation": "Hamburg",
+    "competitionName": "Autumn Run",
+    "competitionPlacement": 4,
+    "date": "2021-09-18",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:33.55"
+  },
+  {
+    "id": "-NVJ86j96-cIChuhV1it",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Spring Sprint",
+    "competitionPlacement": 1,
+    "date": "2023-05-06",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:26.31"
+  },
+  {
+    "id": "-NVJ86jAdlWLvS0G6yPn",
+    "competitionLocation": "Oslo",
+    "competitionName": "Winter Challenge",
+    "competitionPlacement": 3,
+    "date": "2020-12-05",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:31.87"
+  },
+  {
+    "id": "-NVJ86jRzmitH16Ganjw",
+    "competitionLocation": "Tallinn",
+    "competitionName": "Winter Blast",
+    "competitionPlacement": 2,
+    "date": "2021-12-11",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:29.91"
+  },
+  {
+    "id": "-NVJ86jXTQqnPfnEs-OJ",
+    "competitionLocation": "Toronto",
+    "competitionName": "Summer Showdown",
+    "competitionPlacement": 7,
+    "date": "2021-06-26",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:45.12"
+  },
+  {
+    "id": "-NVJ86jZsGPNSOYd0oYV",
+    "competitionLocation": "Madrid",
+    "competitionName": "Spring Sprint",
+    "competitionPlacement": 6,
+    "date": "2022-03-26",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:42.10"
+  },
+  {
+    "id": "-NVJ86kIQ7Ce8zqU3s9y",
+    "competitionLocation": "Reykjavik",
+    "competitionName": "Winter Classic",
+    "competitionPlacement": 8,
+    "date": "2020-12-19",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:47.66"
+  },
+  {
+    "id": "-NVJ86kIQ7Ce8zqU3s9z",
+    "competitionLocation": "Brussels",
+    "competitionName": "Spring Showdown",
+    "competitionPlacement": 5,
+    "date": "2023-03-18",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:37.29"
+  },
+  {
+    "id": "-NVJ86kIQ7Ce8zqU3sA-",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Summer Slam",
+    "competitionPlacement": 1,
+    "date": "2022-06-25",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:25.67"
+  },
+  {
+    "id": "-NVJ86kIQ7Ce8zqU3sA0",
+    "competitionLocation": "Dublin",
+    "competitionName": "Summer Run",
+    "competitionPlacement": 3,
+    "date": "2021-08-14",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:29.85"
+  },
+  {
+    "id": "-NVJ86kJB3KnkStaCiVm",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Winter Cup",
+    "competitionPlacement": 4,
+    "date": "2022-12-10",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:33.18"
+  },
+  {
+    "id": "-NVJ86kTxOIjmZu1V28j",
+    "competitionLocation": "Amsterdam",
+    "competitionName": "Winter Sprint",
+    "competitionPlacement": 5,
+    "date": "2022-02-12",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:36.78"
+  },
+  {
+    "id": "-NVJ86n8dNItalLVse4V",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Fall Invitational",
+    "competitionPlacement": 2,
+    "date": "2021-10-09",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:28.96"
+  },
+  {
+    "id": "-NVJ86n8dNItalLVse4W",
+    "competitionLocation": "Paris",
+    "competitionName": "Summer Classic",
+    "competitionPlacement": 3,
+    "date": "2021-07-17",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:32.05"
+  },
+  {
+    "id": "-NVJ86n8dNItalLVse4X",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Winter Games",
+    "competitionPlacement": 1,
+    "date": "2021-01-16",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:25.31"
+  },
+  {
+    "id": "-NVJ86n8dNItalLVse4Y",
+    "competitionLocation": "Barcelona",
+    "competitionName": "Summer Sprint",
+    "competitionPlacement": 2,
+    "date": "2022-08-20",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:26.99"
+  },
+  {
+    "id": "-NVJ86n8dNItalLVse4Z",
+    "competitionLocation": "Manchester",
+    "competitionName": "Spring Sprint",
+    "competitionPlacement": 6,
+    "date": "2021-05-22",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:40.09"
+  },
+  {
+    "id": "-NVJ86n9cVq2mmq4B1Nn",
+    "competitionLocation": "Hamburg",
+    "competitionName": "Spring Invitational",
+    "competitionPlacement": 4,
+    "date": "2021-04-10",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:38.62"
+  },
+  {
+    "id": "-NVJ86ntk2kEuRylmqbc",
+    "date": "2023-03-22",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:22.34"
+  },
+  {
+    "id": "-NVJ86ntk2kEuRylmqbd",
+    "date": "2023-04-26",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:33.92"
+  },
+  {
+    "id": "-NVJ86o_ZGUYjmxpQwbg",
+    "date": "2023-03-10",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "02:14.61"
+  },
+  {
+    "id": "-NVJ86oabM2lMiOcgXGL",
+    "date": "2023-04-14",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "02:12.42"
+  },
+  {
+    "id": "-NVJ86orBKmZtjg8Zl6t",
+    "competitionLocation": "Aarhus",
+    "competitionName": "Spring Games",
+    "competitionPlacement": 1,
+    "date": "2022-04-16",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:26.88"
+  },
+  {
+    "id": "-NVJ86p9-qgGQIYCwCrg",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Fall Classic",
+    "competitionPlacement": 1,
+    "date": "2022-10-15",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:27.91"
+  },
+  {
+    "id": "-NVJ86pA7F9BKoXxAwk2",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Summer Invitational",
+    "competitionPlacement": 5,
+    "date": "2022-07-23",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:42.81"
+  },
+  {
+    "id": "-NVJ86qqXBiWPsYJLEZj",
+    "competitionLocation": "Aarhus",
+    "competitionName": "Spring Invitational",
+    "competitionPlacement": 2,
+    "date": "2023-04-22",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:28.76"
+  },
+  {
+    "id": "-NVJ86qqXBiWPsYJLEZk",
+    "competitionLocation": "Vienna",
+    "competitionName": "Vienna International Cup",
+    "competitionPlacement": 3,
+    "date": "2020-09-30",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:22.30"
+  },
+  {
+    "id": "-NVJ86qqXBiWPsYJLEZl",
+    "competitionLocation": "Moscow",
+    "competitionName": "World Indoor Championships",
+    "competitionPlacement": 6,
+    "date": "2023-04-05",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:55.10"
+  },
+  {
+    "id": "-NVJ86qqXBiWPsYJLEZm",
+    "competitionLocation": "Paris",
+    "competitionName": "Paris Grand Prix",
+    "competitionPlacement": 4,
+    "date": "2021-07-18",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:32.40"
+  },
+  {
+    "id": "-NVJ86qqXBiWPsYJLEZn",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Copenhagen Winter Classic",
+    "competitionPlacement": 5,
+    "date": "2021-02-15",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:50.25"
+  },
+  {
+    "id": "-NVJ86qr98rS64I1Urnb",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Winter Games",
+    "competitionPlacement": 3,
+    "date": "2023-01-28",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "competition",
+    "time": "00:32.78"
+  },
+  {
+    "id": "-NVJ86rYnKpYpFUaoPi9",
+    "competitionLocation": "Madrid",
+    "competitionName": "World Cup Final",
+    "competitionPlacement": 7,
+    "date": "2023-02-10",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "02:10.80"
+  },
+  {
+    "id": "-NVJ86rYnKpYpFUaoPiA",
+    "competitionLocation": "Los Angeles",
+    "competitionName": "Olympic Games",
+    "competitionPlacement": 3,
+    "date": "2022-07-25",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:05.90"
+  },
+  {
+    "id": "-NVJ86r_5aQpbXzJ0A7Q",
+    "competitionLocation": "Riga",
+    "competitionName": "Riga Open",
+    "competitionPlacement": 8,
+    "date": "2020-12-01",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "02:15.60"
+  },
+  {
+    "id": "-NVJ86raJ5BjWdyPnppk",
+    "competitionLocation": "Tokyo",
+    "competitionName": "Tokyo Cup",
+    "competitionPlacement": 1,
+    "date": "2022-06-02",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "00:50.00"
+  },
+  {
+    "id": "-NVJ86rdTD5BLBnF40Nn",
+    "competitionLocation": "Oslo",
+    "competitionName": "Oslo Nordic Championships",
+    "competitionPlacement": 1,
+    "date": "2021-10-14",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "00:44.20"
+  },
+  {
+    "id": "-NVJ86reEkaIHlIKd78n",
+    "competitionLocation": "Athens",
+    "competitionName": "Athens Classic",
+    "competitionPlacement": 3,
+    "date": "2022-04-10",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:25.50"
+  },
+  {
+    "id": "-NVJ86sW9tShoE1y4Xnu",
+    "competitionLocation": "Oslo",
+    "competitionName": "Oslo Open",
+    "competitionPlacement": 5,
+    "date": "2021-10-01",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:50.25"
+  },
+  {
+    "id": "-NVJ86sXrbRb1hOEwhUv",
+    "competitionLocation": "Montreal",
+    "competitionName": "Montreal Grand Prix",
+    "competitionPlacement": 2,
+    "date": "2022-11-21",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:09.40"
+  },
+  {
+    "id": "-NVJ86sZ8QSZ1d3INijZ",
+    "competitionLocation": "Beijing",
+    "competitionName": "Winter Olympics",
+    "competitionPlacement": 1,
+    "date": "2023-02-15",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "00:47.60"
+  },
+  {
+    "id": "-NVJ86saNy9xkIeVGiSv",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Winter Classic",
+    "competitionPlacement": 2,
+    "date": "2021-01-15",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:41.32"
+  },
+  {
+    "id": "-NVJ86saNy9xkIeVGiSw",
+    "competitionLocation": "Zurich",
+    "competitionName": "Zurich Cup",
+    "competitionPlacement": 7,
+    "date": "2021-11-18",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:59.80"
+  },
+  {
+    "id": "-NVJ86sb69-KoPfZfJjN",
+    "competitionLocation": "Madrid",
+    "competitionName": "Madrid Masters",
+    "competitionPlacement": 4,
+    "date": "2022-06-08",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:30.70"
+  },
+  {
+    "id": "-NVJ86tWA-R0RfRayiib",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Copenhagen Cup",
+    "competitionPlacement": 6,
+    "date": "2021-07-03",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:55.20"
+  },
+  {
+    "id": "-NVJ86tWA-R0RfRayiic",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Spring Open",
+    "competitionPlacement": 7,
+    "date": "2022-05-29",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "01:15.63"
+  },
+  {
+    "id": "-NVJ86tWA-R0RfRayiid",
+    "competitionLocation": "Toronto",
+    "competitionName": "Toronto Open",
+    "competitionPlacement": 1,
+    "date": "2022-09-12",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "00:36.80"
+  },
+  {
+    "id": "-NVJ86tg_7BGJoaiD7IN",
+    "competitionLocation": "Aalborg",
+    "competitionName": "National Games",
+    "competitionPlacement": 4,
+    "date": "2022-08-28",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:47.39"
+  },
+  {
+    "id": "-NVJ86tg_7BGJoaiD7IO",
+    "competitionLocation": "Hamburg",
+    "competitionName": "City Games",
+    "competitionPlacement": 6,
+    "date": "2022-02-28",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "01:01.87"
+  },
+  {
+    "id": "-NVJ86th6usMbT7v_iTc",
+    "competitionLocation": "Vienna",
+    "competitionName": "Vienna Grand Prix",
+    "competitionPlacement": 3,
+    "date": "2020-12-27",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "competition",
+    "time": "01:18.90"
+  },
+  {
+    "id": "-NVJ86uE9vY2ccitEcS2",
+    "competitionLocation": "Paris",
+    "competitionName": "European Open",
+    "competitionPlacement": 4,
+    "date": "2023-03-21",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:49.23"
+  },
+  {
+    "id": "-NVJ86uIY8FZ7J78_u5l",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "City Classic",
+    "competitionPlacement": 1,
+    "date": "2021-06-15",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:38.54"
+  },
+  {
+    "id": "-NVJ86uJJQz2WBuJi9Dd",
+    "competitionLocation": "London",
+    "competitionName": "Summer Games",
+    "competitionPlacement": 5,
+    "date": "2021-07-25",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:53.21"
+  },
+  {
+    "id": "-NVJ86uOQqt8_wuhtpyE",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Regional Open",
+    "competitionPlacement": 6,
+    "date": "2021-11-05",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "01:00.36"
+  },
+  {
+    "id": "-NVJ86uOQqt8_wuhtpyF",
+    "competitionLocation": "Esbjerg",
+    "competitionName": "State Open",
+    "competitionPlacement": 1,
+    "date": "2022-04-08",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:37.21"
+  },
+  {
+    "id": "-NVJ86uOQqt8_wuhtpyG",
+    "competitionLocation": "Odense",
+    "competitionName": "State Cup",
+    "competitionPlacement": 8,
+    "date": "2020-09-19",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "01:20.45"
+  },
+  {
+    "id": "-NVJ86uyPubLv31LLDDz",
+    "competitionLocation": "Berlin",
+    "competitionName": "European Games",
+    "competitionPlacement": 6,
+    "date": "2023-03-16",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "01:12.59"
+  },
+  {
+    "id": "-NVJ86v13FyuuUQ7oTJF",
+    "competitionLocation": "Aalborg",
+    "competitionName": "Spring Games",
+    "competitionPlacement": 4,
+    "date": "2021-05-23",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:46.87"
+  },
+  {
+    "id": "-NVJ86v13FyuuUQ7oTJG",
+    "competitionLocation": "Aarhus",
+    "competitionName": "City Cup",
+    "competitionPlacement": 3,
+    "date": "2022-02-22",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:42.36"
+  },
+  {
+    "id": "-NVJ86vFxFCg9hSFsvpB",
+    "competitionLocation": "Herning",
+    "competitionName": "State Games",
+    "competitionPlacement": 8,
+    "date": "2022-09-17",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "01:45.12"
+  },
+  {
+    "id": "-NVJ86vFxFCg9hSFsvpC",
+    "competitionLocation": "Aarhus",
+    "competitionName": "National Open",
+    "competitionPlacement": 1,
+    "date": "2021-08-31",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "00:36.84"
+  },
+  {
+    "id": "-NVJ86vFxFCg9hSFsvpD",
+    "competitionLocation": "Oslo",
+    "competitionName": "Summer Cup",
+    "competitionPlacement": 7,
+    "date": "2022-07-20",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "competition",
+    "time": "01:25.36"
+  },
+  {
+    "id": "-NVJ86veq_qbi4qhUwQ2",
+    "date": "2023-01-16",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:31.27"
+  },
+  {
+    "id": "-NVJ86xwDx9e5hDKv3hT",
+    "date": "2023-02-25",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "02:06.76"
+  },
+  {
+    "id": "-NVJ86xwDx9e5hDKv3hU",
+    "date": "2023-05-12",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:09.53"
+  },
+  {
+    "id": "-NVJ86xwDx9e5hDKv3hV",
+    "date": "2023-03-29",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:48.12"
+  },
+  {
+    "id": "-NVJ86xxj79nvcAPslmL",
+    "date": "2023-01-07",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:55.78"
+  },
+  {
+    "id": "-NVJ86xxj79nvcAPslmM",
+    "date": "2023-03-16",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:11.24"
+  },
+  {
+    "id": "-NVJ86xxj79nvcAPslmN",
+    "date": "2023-04-29",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "00:30.41"
+  },
+  {
+    "id": "-NVJ86zFhlXdSTEFS4Tu",
+    "date": "2023-05-23",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "02:18.29"
+  },
+  {
+    "id": "-NVJ86zFhlXdSTEFS4Tv",
+    "date": "2023-03-27",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "00:43.41"
+  },
+  {
+    "id": "-NVJ86zFhlXdSTEFS4Tw",
+    "date": "2023-01-02",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:16.84"
+  },
+  {
+    "id": "-NVJ86zFhlXdSTEFS4Tx",
+    "date": "2023-02-20",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:42.62"
+  },
+  {
+    "id": "-NVJ86zFhlXdSTEFS4Ty",
+    "date": "2023-04-20",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:02.31"
+  },
+  {
+    "id": "-NVJ86zGuoudPuBTJW5a",
+    "date": "2023-01-15",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:53.06"
+  },
+  {
+    "id": "-NVJ87-4eWfoQwll8p9m",
+    "date": "2023-02-03",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:03.93"
+  },
+  {
+    "id": "-NVJ87-6Zw_lX5FOgQ6v",
+    "date": "2023-01-16",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "01:32.49"
+  },
+  {
+    "id": "-NVJ87-6Zw_lX5FOgQ6w",
+    "date": "2023-04-26",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:01.52"
+  },
+  {
+    "id": "-NVJ87-6Zw_lX5FOgQ6x",
+    "date": "2023-04-13",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:37.09"
+  },
+  {
+    "id": "-NVJ87-6Zw_lX5FOgQ6y",
+    "date": "2023-05-07",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:29.65"
+  },
+  {
+    "id": "-NVJ87-7JKjImVW67QVC",
+    "date": "2023-02-03",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "01:18.13"
+  },
+  {
+    "id": "-NVJ8700LHzBqHAfUnaR",
+    "date": "2023-04-12",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "02:01.96"
+  },
+  {
+    "id": "-NVJ8705m55oLLhycj3V",
+    "date": "2023-05-14",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "00:52.87"
+  },
+  {
+    "id": "-NVJ8705m55oLLhycj3W",
+    "date": "2023-01-06",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "02:22.17"
+  },
+  {
+    "id": "-NVJ8705m55oLLhycj3X",
+    "date": "2023-03-28",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "00:35.79"
+  },
+  {
+    "id": "-NVJ8705m55oLLhycj3Y",
+    "date": "2023-05-02",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "01:12.13"
+  },
+  {
+    "id": "-NVJ8705m55oLLhycj3Z",
+    "date": "2023-03-10",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "01:49.47"
+  },
+  {
+    "id": "-NVJ870jaOWglvPfXq-f",
+    "date": "2023-05-30",
+    "discipline": "butterfly",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "01:51.42"
+  },
+  {
+    "id": "-NVJ870qGSRF3C_eT4_R",
+    "date": "2023-03-02",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "01:46.21"
+  },
+  {
+    "id": "-NVJ870qGSRF3C_eT4_S",
+    "date": "2023-01-02",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "02:15.84"
+  },
+  {
+    "id": "-NVJ870qGSRF3C_eT4_T",
+    "date": "2023-01-19",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "01:10.51"
+  },
+  {
+    "id": "-NVJ870qGSRF3C_eT4_U",
+    "date": "2023-01-11",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "01:45.69"
+  },
+  {
+    "id": "-NVJ870uJ3f8tAvl6msf",
+    "date": "2023-02-08",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "00:57.13"
+  },
+  {
+    "id": "-NVJ873gb42JTQ8m1Ca5",
+    "date": "2023-05-18",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "01:02.76"
+  },
+  {
+    "id": "-NVJ873gb42JTQ8m1Ca6",
+    "date": "2023-02-05",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "02:22.12"
+  },
+  {
+    "id": "-NVJ873gb42JTQ8m1Ca7",
+    "date": "2023-05-05",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "02:09.13"
+  },
+  {
+    "id": "-NVJ873gb42JTQ8m1Ca8",
+    "date": "2023-04-22",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "00:58.80"
+  },
+  {
+    "id": "-NVJ873gb42JTQ8m1Ca9",
+    "date": "2023-04-10",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "01:09.27"
+  },
+  {
+    "id": "-NVJ873hAJ9pvJPdf1ub",
+    "date": "2023-03-18",
+    "discipline": "freestyle",
+    "memberId": "-KMNCEp-vy_5t9CgxyJ0",
+    "resultType": "training",
+    "time": "02:17.96"
+  },
+  {
+    "id": "-NVJ874Qzt_4wNrPjL_K",
+    "date": "2023-01-03",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:56.18"
+  },
+  {
+    "id": "-NVJ874RAGYCgpzRIY-o",
+    "date": "2023-01-16",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:10.47"
+  },
+  {
+    "id": "-NVJ874TiP1w9ybmeDYc",
+    "date": "2023-04-13",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "02:25.13"
+  },
+  {
+    "id": "-NVJ874TiP1w9ybmeDYd",
+    "date": "2023-03-11",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:43.03"
+  },
+  {
+    "id": "-NVJ874TiP1w9ybmeDYe",
+    "date": "2023-05-20",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "02:14.01"
+  },
+  {
+    "id": "-NVJ874U1N0L8hkmLjUP",
+    "date": "2023-03-29",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:18.51"
+  },
+  {
+    "id": "-NVJ875AB40q3sOsAUf6",
+    "date": "2023-02-24",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:29.90"
+  },
+  {
+    "id": "-NVJ875AB40q3sOsAUf7",
+    "date": "2023-03-15",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "00:55.39"
+  },
+  {
+    "id": "-NVJ875AB40q3sOsAUf8",
+    "date": "2023-02-06",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "02:12.35"
+  },
+  {
+    "id": "-NVJ875AB40q3sOsAUf9",
+    "date": "2023-04-14",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "02:17.52"
+  },
+  {
+    "id": "-NVJ875AB40q3sOsAUfA",
+    "date": "2023-01-19",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:03.45"
+  },
+  {
+    "id": "-NVJ875BBN_Z2msm4i1t",
+    "date": "2023-01-07",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:34.16"
+  },
+  {
+    "id": "-NVJ8760F5f55FnVXiar",
+    "date": "2023-02-06",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:56.09"
+  },
+  {
+    "id": "-NVJ8760F5f55FnVXias",
+    "date": "2023-05-06",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:46.74"
+  },
+  {
+    "id": "-NVJ8760F5f55FnVXiat",
+    "date": "2023-01-13",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:11.12"
+  },
+  {
+    "id": "-NVJ8760F5f55FnVXiau",
+    "date": "2023-03-30",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:49.12"
+  },
+  {
+    "id": "-NVJ8760F5f55FnVXiav",
+    "date": "2023-05-19",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "02:08.07"
+  },
+  {
+    "id": "-NVJ8761cDU7DfhyedKw",
+    "date": "2023-04-25",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:08.09"
+  },
+  {
+    "id": "-NVJ877L18cnyzKISaDv",
+    "date": "2023-04-14",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:15.93"
+  },
+  {
+    "id": "-NVJ877M264JNKQ2otWO",
+    "date": "2023-02-01",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "02:10.88"
+  },
+  {
+    "id": "-NVJ877M264JNKQ2otWP",
+    "date": "2023-05-11",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:42.09"
+  },
+  {
+    "id": "-NVJ877M264JNKQ2otWQ",
+    "date": "2023-03-17",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "02:20.05"
+  },
+  {
+    "id": "-NVJ877NrSi9DI1tj6ld",
+    "date": "2023-03-28",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "00:50.47"
+  },
+  {
+    "id": "-NVJ877NrSi9DI1tj6le",
+    "date": "2023-05-26",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "02:06.11"
+  },
+  {
+    "id": "-NVJ8786U0AYhVNIiNAb",
+    "date": "2023-01-01",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:05.40"
+  },
+  {
+    "id": "-NVJ8786U0AYhVNIiNAc",
+    "date": "2023-01-13",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:52.75"
+  },
+  {
+    "id": "-NVJ8786U0AYhVNIiNAd",
+    "date": "2023-04-26",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:33.92"
+  },
+  {
+    "id": "-NVJ8786U0AYhVNIiNAe",
+    "date": "2023-01-02",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:15.20"
+  },
+  {
+    "id": "-NVJ8787iZKJXYjKs1SH",
+    "date": "2023-04-11",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "02:02.53"
+  },
+  {
+    "id": "-NVJ878pSoTmM4Q89ZAj",
+    "date": "2023-03-22",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:22.34"
+  },
+  {
+    "id": "-NVJ878uHLNEj38zcXJn",
+    "date": "2023-02-02",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "00:59.88"
+  },
+  {
+    "id": "-NVJ878uHLNEj38zcXJo",
+    "date": "2023-05-19",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:52.41"
+  },
+  {
+    "id": "-NVJ878uHLNEj38zcXJp",
+    "date": "2023-02-18",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:49.49"
+  },
+  {
+    "id": "-NVJ878vaDNTr0-j_SKA",
+    "date": "2023-05-12",
+    "discipline": "backstroke",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:10.70"
+  },
+  {
+    "id": "-NVJ879PpRgEk330L1GQ",
+    "date": "2023-04-27",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "training",
+    "time": "01:46.14"
+  },
+  {
+    "id": "-NVJ879bI_XL_dhgjsWa",
+    "date": "2023-01-07",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:23.75"
+  },
+  {
+    "id": "-NVJ879bI_XL_dhgjsWb",
+    "date": "2023-04-12",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:59.53"
+  },
+  {
+    "id": "-NVJ879fXvZVenjyi6qs",
+    "date": "2023-03-20",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:01.34"
+  },
+  {
+    "id": "-NVJ879fXvZVenjyi6qt",
+    "date": "2023-03-06",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:20.11"
+  },
+  {
+    "id": "-NVJ879fXvZVenjyi6qu",
+    "date": "2023-04-25",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:30.92"
+  },
+  {
+    "id": "-NVJ87AK5Qc5gktHmmra",
+    "date": "2023-02-21",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "02:23.29"
+  },
+  {
+    "id": "-NVJ87AK5Qc5gktHmmrb",
+    "date": "2023-01-05",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:40.94"
+  },
+  {
+    "id": "-NVJ87AK5Qc5gktHmmrc",
+    "date": "2023-05-09",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "02:15.66"
+  },
+  {
+    "id": "-NVJ87ALFPuJpcDHGJmt",
+    "date": "2023-05-17",
+    "discipline": "freestyle",
+    "memberId": "-KMNCjQ-zy_2d9MxgtK7",
+    "resultType": "training",
+    "time": "01:42.41"
+  },
+  {
+    "id": "-NVJ87AQbjwy6DlKC0MQ",
+    "date": "2023-01-14",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:06.64"
+  },
+  {
+    "id": "-NVJ87AR4jhDxLbJaGxz",
+    "date": "2023-04-29",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "00:51.01"
+  },
+  {
+    "id": "-NVJ87BAHOkJobCBjF4b",
+    "date": "2023-03-27",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "02:12.48"
+  },
+  {
+    "id": "-NVJ87BAHOkJobCBjF4c",
+    "date": "2023-02-07",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:58.21"
+  },
+  {
+    "id": "-NVJ87BAHOkJobCBjF4d",
+    "date": "2023-05-10",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:37.73"
+  },
+  {
+    "id": "-NVJ87BAHOkJobCBjF4e",
+    "date": "2023-01-05",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "00:46.85"
+  },
+  {
+    "id": "-NVJ87BAHOkJobCBjF4f",
+    "date": "2023-02-03",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:51.91"
+  },
+  {
+    "id": "-NVJ87BAHOkJobCBjF4g",
+    "date": "2023-04-16",
+    "discipline": "backstroke",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:29.04"
+  },
+  {
+    "id": "-NVJ87BsLH2PsvFD10mG",
+    "date": "2023-01-17",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:19.14"
+  },
+  {
+    "id": "-NVJ87BxRlRp6WnjlYz7",
+    "date": "2023-03-27",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:37.05"
+  },
+  {
+    "id": "-NVJ87BxRlRp6WnjlYz8",
+    "date": "2023-03-12",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "02:23.92"
+  },
+  {
+    "id": "-NVJ87BxRlRp6WnjlYz9",
+    "date": "2023-05-30",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "00:49.63"
+  },
+  {
+    "id": "-NVJ87BxRlRp6WnjlYzA",
+    "date": "2023-04-18",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:57.10"
+  },
+  {
+    "id": "-NVJ87By6W8Rfyrokv32",
+    "date": "2023-02-21",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:09.55"
+  },
+  {
+    "id": "-NVJ87CbO13svT3hLAVF",
+    "date": "2023-05-15",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:42.86"
+  },
+  {
+    "id": "-NVJ87Cc0nfVmw1pbvhy",
+    "date": "2023-05-03",
+    "discipline": "butterfly",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "00:52.98"
+  },
+  {
+    "id": "-NVJ87CeQVQ3bdJxD-O5",
+    "date": "2023-01-11",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:11.12"
+  },
+  {
+    "id": "-NVJ87CeQVQ3bdJxD-O6",
+    "date": "2023-01-02",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "00:42.05"
+  },
+  {
+    "id": "-NVJ87CeQVQ3bdJxD-O7",
+    "date": "2023-02-03",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "02:06.76"
+  },
+  {
+    "id": "-NVJ87ChKTvzPEn79Ppp",
+    "date": "2023-03-12",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "02:23.44"
+  },
+  {
+    "id": "-NVJ87DJbKqzggc5G6ok",
+    "date": "2023-03-26",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "00:56.71"
+  },
+  {
+    "id": "-NVJ87DbF6pTjZ19nse2",
+    "date": "2023-02-25",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:28.98"
+  },
+  {
+    "id": "-NVJ87DbF6pTjZ19nse3",
+    "competitionLocation": "Aarhus",
+    "competitionName": "Winter Classic",
+    "competitionPlacement": 3,
+    "date": "2022-01-07",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "00:50.67"
+  },
+  {
+    "id": "-NVJ87DbF6pTjZ19nse4",
+    "date": "2023-05-09",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:06.69"
+  },
+  {
+    "id": "-NVJ87DbF6pTjZ19nse5",
+    "date": "2023-05-22",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:49.27"
+  },
+  {
+    "id": "-NVJ87DcfwUFxLB3Vmj9",
+    "date": "2023-04-15",
+    "discipline": "freestyle",
+    "memberId": "-KMNDKw-gy_3f5PqdfF0",
+    "resultType": "training",
+    "time": "01:48.85"
+  },
+  {
+    "id": "-NVJ87E1Tike3RXuz5KX",
+    "competitionLocation": "Esbjerg",
+    "competitionName": "City Open",
+    "competitionPlacement": 7,
+    "date": "2022-04-21",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "01:30.56"
+  },
+  {
+    "id": "-NVJ87EHKCRTNnzRYedK",
+    "competitionLocation": "Paris",
+    "competitionName": "European Championship",
+    "competitionPlacement": 2,
+    "date": "2023-03-09",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "00:39.75"
+  },
+  {
+    "id": "-NVJ87EOZii9YX210Pfo",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "State Games",
+    "competitionPlacement": 4,
+    "date": "2023-02-19",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "00:42.87"
+  },
+  {
+    "id": "-NVJ87EOZii9YX210Pfp",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Summer Open",
+    "competitionPlacement": 5,
+    "date": "2022-07-12",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "01:10.98"
+  },
+  {
+    "id": "-NVJ87EOZii9YX210Pfq",
+    "competitionLocation": "Aalborg",
+    "competitionName": "Spring Classic",
+    "competitionPlacement": 6,
+    "date": "2023-05-15",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "01:20.34"
+  },
+  {
+    "id": "-NVJ87EPdB-O3TgrppXB",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "State Cup",
+    "competitionPlacement": 2,
+    "date": "2022-06-02",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "00:38.12"
+  },
+  {
+    "id": "-NVJ87ElvE7Alpl2vShE",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Regional Open",
+    "competitionPlacement": 3,
+    "date": "2021-10-27",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "00:51.87"
+  },
+  {
+    "id": "-NVJ87FQM1yJN_nn7HZS",
+    "competitionLocation": "Aarhus",
+    "competitionName": "National Cup",
+    "competitionPlacement": 1,
+    "date": "2021-08-23",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "00:36.45"
+  },
+  {
+    "id": "-NVJ87FQM1yJN_nn7HZT",
+    "competitionLocation": "Odense",
+    "competitionName": "City Games",
+    "competitionPlacement": 8,
+    "date": "2020-09-14",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "02:00.45"
+  },
+  {
+    "id": "-NVJ87FQM1yJN_nn7HZU",
+    "competitionLocation": "Rome",
+    "competitionName": "International Games",
+    "competitionPlacement": 6,
+    "date": "2022-08-11",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "01:50.32"
+  },
+  {
+    "id": "-NVJ87FQM1yJN_nn7HZV",
+    "competitionLocation": "Esbjerg",
+    "competitionName": "City Championship",
+    "competitionPlacement": 8,
+    "date": "2022-09-28",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "02:15.56"
+  },
+  {
+    "id": "-NVJ87FRB0aYLTY6vFbe",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "State Championship",
+    "competitionPlacement": 2,
+    "date": "2022-07-02",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "00:37.56"
+  },
+  {
+    "id": "-NVJ87FXZad_IV5XjV2M",
+    "competitionLocation": "Helsinki",
+    "competitionName": "State Championship",
+    "competitionPlacement": 7,
+    "date": "2021-10-10",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "02:00.34"
+  },
+  {
+    "id": "-NVJ87G8OyOAonHEHmqF",
+    "competitionLocation": "Oslo",
+    "competitionName": "Regional Championship",
+    "competitionPlacement": 4,
+    "date": "2020-09-05",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "01:05.43"
+  },
+  {
+    "id": "-NVJ87G8OyOAonHEHmqG",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "National Championship",
+    "competitionPlacement": 1,
+    "date": "2022-12-16",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "00:38.99"
+  },
+  {
+    "id": "-NVJ87G8OyOAonHEHmqH",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Stockholm Diamond League",
+    "competitionPlacement": 2,
+    "date": "2021-07-08",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:10.80"
+  },
+  {
+    "id": "-NVJ87G8OyOAonHEHmqI",
+    "competitionLocation": "Aalborg",
+    "competitionName": "National Championship",
+    "competitionPlacement": 5,
+    "date": "2021-06-18",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "competition",
+    "time": "01:15.90"
+  },
+  {
+    "id": "-NVJ87GHMd87UZtQVqDj",
+    "competitionLocation": "Paris",
+    "competitionName": "Paris World Cup",
+    "competitionPlacement": 3,
+    "date": "2022-08-24",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:50.90"
+  },
+  {
+    "id": "-NVJ87GIBT_GOJgT-G6h",
+    "competitionLocation": "New York",
+    "competitionName": "New York City Cup",
+    "competitionPlacement": 1,
+    "date": "2023-05-01",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "00:35.00"
+  },
+  {
+    "id": "-NVJ87HMKjIVrFBiCk_R",
+    "competitionLocation": "Boston",
+    "competitionName": "Boston Indoor Games",
+    "competitionPlacement": 7,
+    "date": "2022-03-05",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "02:10.25"
+  },
+  {
+    "id": "-NVJ87HMKjIVrFBiCk_S",
+    "competitionLocation": "Berlin",
+    "competitionName": "Berlin Invitational",
+    "competitionPlacement": 4,
+    "date": "2021-10-02",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:55.40"
+  },
+  {
+    "id": "-NVJ87HMKjIVrFBiCk_T",
+    "competitionLocation": "Milan",
+    "competitionName": "Milan Grand Prix",
+    "competitionPlacement": 2,
+    "date": "2021-11-17",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:15.65"
+  },
+  {
+    "id": "-NVJ87HMKjIVrFBiCk_U",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Copenhagen Christmas Cup",
+    "competitionPlacement": 8,
+    "date": "2020-12-16",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "02:30.00"
+  },
+  {
+    "id": "-NVJ87HNMN0AMKgw_FYx",
+    "competitionLocation": "Oslo",
+    "competitionName": "Oslo Diamond League",
+    "competitionPlacement": 1,
+    "date": "2022-09-20",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "00:40.50"
+  },
+  {
+    "id": "-NVJ87HNMN0AMKgw_FYy",
+    "competitionLocation": "Beijing",
+    "competitionName": "Summer Olympics",
+    "competitionPlacement": 5,
+    "date": "2023-02-25",
+    "discipline": "backstroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "00:52.10"
+  },
+  {
+    "id": "-NVJ87I3iF77nb6I8PUQ",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Stockholm Grand Prix",
+    "competitionPlacement": 4,
+    "date": "2020-06-22",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "02:20.90"
+  },
+  {
+    "id": "-NVJ87I4AAMEsjihyZBo",
+    "competitionLocation": "Toronto",
+    "competitionName": "Canadian Nationals",
+    "competitionPlacement": 1,
+    "date": "2022-09-03",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "00:39.80"
+  },
+  {
+    "id": "-NVJ87I4AAMEsjihyZBp",
+    "competitionLocation": "Paris",
+    "competitionName": "World Championships",
+    "competitionPlacement": 3,
+    "date": "2023-03-27",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:02.90"
+  },
+  {
+    "id": "-NVJ87I4AAMEsjihyZBq",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Helsinki Cup",
+    "competitionPlacement": 2,
+    "date": "2022-02-28",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:10.40"
+  },
+  {
+    "id": "-NVJ87I4AAMEsjihyZBr",
+    "competitionLocation": "Rome",
+    "competitionName": "Rome Cup",
+    "competitionPlacement": 7,
+    "date": "2020-12-15",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "02:05.20"
+  },
+  {
+    "id": "-NVJ87I5h8tWr-fil-p-",
+    "competitionLocation": "New York",
+    "competitionName": "US Open",
+    "competitionPlacement": 6,
+    "date": "2021-08-17",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:50.30"
+  },
+  {
+    "id": "-NVJ87Ikn9wCIH1n-tvP",
+    "competitionLocation": "Rio de Janeiro",
+    "competitionName": "Rio Invitational",
+    "competitionPlacement": 1,
+    "date": "2022-08-10",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "00:35.00"
+  },
+  {
+    "id": "-NVJ87Ilyn5MR78qnIuV",
+    "competitionLocation": "Berlin",
+    "competitionName": "Berlin Open",
+    "competitionPlacement": 8,
+    "date": "2022-05-12",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "02:30.00"
+  },
+  {
+    "id": "-NVJ87In-vpW2f-_P4mf",
+    "competitionLocation": "Barcelona",
+    "competitionName": "Barcelona Masters",
+    "competitionPlacement": 2,
+    "date": "2021-11-06",
+    "discipline": "breaststroke",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:15.85"
+  },
+  {
+    "id": "-NVJ87In-vpW2f-_P4mg",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Copenhagen Invitational",
+    "competitionPlacement": 3,
+    "date": "2020-07-02",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:45.12"
+  },
+  {
+    "id": "-NVJ87IoI_yG-578MiVi",
+    "competitionLocation": "Munich",
+    "competitionName": "Munich Open",
+    "competitionPlacement": 5,
+    "date": "2022-01-07",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:30.44"
+  },
+  {
+    "id": "-NVJ87IrWZycKC_M8H7Z",
+    "competitionLocation": "Paris",
+    "competitionName": "Valentine's Cup",
+    "competitionPlacement": 1,
+    "date": "2021-02-14",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "00:52.90"
+  },
+  {
+    "id": "-NVJ87JQtCYtXCgDH8uT",
+    "competitionLocation": "Tokyo",
+    "competitionName": "Tokyo International",
+    "competitionPlacement": 4,
+    "date": "2023-04-20",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:20.76"
+  },
+  {
+    "id": "-NVJ87JWMV_gtt8pzTIO",
+    "competitionLocation": "Vienna",
+    "competitionName": "Vienna Cup",
+    "competitionPlacement": 8,
+    "date": "2023-03-08",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "02:15.03"
+  },
+  {
+    "id": "-NVJ87JY6kqAAhy6_g4v",
+    "competitionLocation": "Madrid",
+    "competitionName": "European Championships",
+    "competitionPlacement": 3,
+    "date": "2021-08-03",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "01:00.63"
+  },
+  {
+    "id": "-NVJ87JY6kqAAhy6_g4w",
+    "competitionLocation": "Aarhus",
+    "competitionName": "Winter Classic",
+    "competitionPlacement": 2,
+    "date": "2020-12-12",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:36.25"
+  },
+  {
+    "id": "-NVJ87JY6kqAAhy6_g4x",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Fall Invitational",
+    "competitionPlacement": 4,
+    "date": "2021-10-30",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:42.35"
+  },
+  {
+    "id": "-NVJ87JY6kqAAhy6_g4y",
+    "competitionLocation": "Berlin",
+    "competitionName": "Berlin Masters",
+    "competitionPlacement": 7,
+    "date": "2022-06-30",
+    "discipline": "butterfly",
+    "memberId": "-KMNCWz-wy_7f5OgtqE3",
+    "resultType": "competition",
+    "time": "02:10.19"
+  },
+  {
+    "id": "-NVJ87KJ-Y8fWnp5IUeh",
+    "competitionLocation": "Reykjavik",
+    "competitionName": "Summer Open",
+    "competitionPlacement": 1,
+    "date": "2021-07-10",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:27.98"
+  },
+  {
+    "id": "-NVJ87KO485RCb4ChY24",
+    "competitionLocation": "Munich",
+    "competitionName": "Spring Games",
+    "competitionPlacement": 3,
+    "date": "2021-03-20",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:39.14"
+  },
+  {
+    "id": "-NVJ87KQ_T2hfCkAoiA4",
+    "competitionLocation": "Hamburg",
+    "competitionName": "Spring Classic",
+    "competitionPlacement": 2,
+    "date": "2022-05-28",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:34.72"
+  },
+  {
+    "id": "-NVJ87KXpt6poxQFgrDH",
+    "competitionLocation": "Aarhus",
+    "competitionName": "Regional Games",
+    "competitionPlacement": 1,
+    "date": "2023-05-12",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:28.09"
+  },
+  {
+    "id": "-NVJ87KYnq1ZUerGWpOi",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Spring Invitational",
+    "competitionPlacement": 2,
+    "date": "2023-03-04",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:36.43"
+  },
+  {
+    "id": "-NVJ87Ka4Umryjaq5_ai",
+    "competitionLocation": "Oslo",
+    "competitionName": "Winter Games",
+    "competitionPlacement": 6,
+    "date": "2022-02-19",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:51.00"
+  },
+  {
+    "id": "-NVJ87L3CSOQ4hXOipaB",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Fall Classic",
+    "competitionPlacement": 1,
+    "date": "2022-11-12",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:28.57"
+  },
+  {
+    "id": "-NVJ87L6jryUoMQAFA1N",
+    "competitionLocation": "Oslo",
+    "competitionName": "Midsummer Classic",
+    "competitionPlacement": 6,
+    "date": "2021-07-03",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:51.24"
+  },
+  {
+    "id": "-NVJ87L6jryUoMQAFA1O",
+    "competitionLocation": "Stockholm",
+    "competitionName": "Spring Open",
+    "competitionPlacement": 4,
+    "date": "2021-03-13",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:42.17"
+  },
+  {
+    "id": "-NVJ87LFXtbEOjlUt241",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Winter Games",
+    "competitionPlacement": 1,
+    "date": "2020-11-28",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:28.90"
+  },
+  {
+    "id": "-NVJ87LFXtbEOjlUt242",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Spring Games",
+    "competitionPlacement": 1,
+    "date": "2022-05-21",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:27.50"
+  },
+  {
+    "id": "-NVJ87LLLzGxqykU_dGG",
+    "competitionLocation": "Gothenburg",
+    "competitionName": "Summer Open",
+    "competitionPlacement": 5,
+    "date": "2022-08-13",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:45.03"
+  },
+  {
+    "id": "-NVJ87LlQf-zlWSfMFbU",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Winter Invitational",
+    "competitionPlacement": 2,
+    "date": "2022-02-12",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:32.91"
+  },
+  {
+    "id": "-NVJ87Lm8LaYgJtFy7Gb",
+    "competitionLocation": "Toronto",
+    "competitionName": "Winter Invitational",
+    "competitionPlacement": 2,
+    "date": "2020-12-20",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "competition",
+    "time": "00:33.84"
+  },
+  {
+    "id": "-NVJ87M7-EgRqRwP6Ld9",
+    "competitionLocation": "Aarhus",
+    "competitionName": "Indoor Classic",
+    "competitionPlacement": 3,
+    "date": "2021-02-06",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "competition",
+    "time": "00:36.59"
+  },
+  {
+    "id": "-NVJ87M7-EgRqRwP6LdA",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Winter Classic",
+    "competitionPlacement": 3,
+    "date": "2023-02-25",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:34.78"
+  },
+  {
+    "id": "-NVJ87M7-EgRqRwP6LdB",
+    "competitionLocation": "London",
+    "competitionName": "Summer Open",
+    "competitionPlacement": 1,
+    "date": "2021-06-19",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "competition",
+    "time": "00:29.05"
+  },
+  {
+    "id": "-NVJ87M8FCZ_Bm9_pRD4",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Spring Invitational",
+    "competitionPlacement": 1,
+    "date": "2023-05-06",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:27.98"
+  },
+  {
+    "id": "-NVJ87MUdINuG8sYOfih",
+    "competitionLocation": "Helsinki",
+    "competitionName": "Autumn Classic",
+    "competitionPlacement": 5,
+    "date": "2021-09-18",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "competition",
+    "time": "00:44.18"
+  },
+  {
+    "id": "-NVJ87MY15rdBepIeoG9",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Winter Classic",
+    "competitionPlacement": 1,
+    "date": "2022-01-15",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "competition",
+    "time": "00:28.72"
+  },
+  {
+    "id": "-NVJ87O-sGIEeZvj-eUK",
+    "competitionLocation": "Aarhus",
+    "competitionName": "Fall Invitational",
+    "competitionPlacement": 4,
+    "date": "2022-11-12",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "competition",
+    "time": "00:40.62"
+  },
+  {
+    "id": "-NVJ87O-sGIEeZvj-eUL",
+    "date": "2023-02-26",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:49.07"
+  },
+  {
+    "id": "-NVJ87O-sGIEeZvj-eUM",
+    "competitionLocation": "New York City",
+    "competitionName": "Summer Classic",
+    "competitionPlacement": 8,
+    "date": "2022-07-30",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "competition",
+    "time": "01:02.45"
+  },
+  {
+    "id": "-NVJ87O-sGIEeZvj-eUN",
+    "date": "2023-01-06",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:23.89"
+  },
+  {
+    "id": "-NVJ87O-sGIEeZvj-eUO",
+    "competitionLocation": "Hamburg",
+    "competitionName": "April Open",
+    "competitionPlacement": 3,
+    "date": "2023-04-01",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "competition",
+    "time": "00:35.87"
+  },
+  {
+    "id": "-NVJ87O0H1v9oW88UOW3",
+    "competitionLocation": "Gothenburg",
+    "competitionName": "Spring Games",
+    "competitionPlacement": 2,
+    "date": "2022-04-09",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "competition",
+    "time": "00:31.99"
+  },
+  {
+    "id": "-NVJ87OhoIcbDggvRYAj",
+    "date": "2023-03-09",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "02:15.25"
+  },
+  {
+    "id": "-NVJ87OhoIcbDggvRYAk",
+    "date": "2023-04-23",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "00:30.51"
+  },
+  {
+    "id": "-NVJ87OhoIcbDggvRYAl",
+    "date": "2023-05-06",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:53.78"
+  },
+  {
+    "id": "-NVJ87OhoIcbDggvRYAm",
+    "date": "2023-03-25",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:07.48"
+  },
+  {
+    "id": "-NVJ87OhoIcbDggvRYAn",
+    "date": "2023-04-11",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:40.64"
+  },
+  {
+    "id": "-NVJ87OnsqN-yEjYB6n4",
+    "date": "2023-01-17",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:57.12"
+  },
+  {
+    "id": "-NVJ87PVBaVSv7rFclJE",
+    "date": "2023-01-27",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "00:48.49"
+  },
+  {
+    "id": "-NVJ87PVBaVSv7rFclJF",
+    "date": "2023-03-19",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "00:34.27"
+  },
+  {
+    "id": "-NVJ87PVBaVSv7rFclJG",
+    "date": "2023-05-18",
+    "discipline": "backstroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:18.99"
+  },
+  {
+    "id": "-NVJ87PVBaVSv7rFclJH",
+    "date": "2023-01-02",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:12.11"
+  },
+  {
+    "id": "-NVJ87PVBaVSv7rFclJI",
+    "date": "2023-01-11",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "02:03.85"
+  },
+  {
+    "id": "-NVJ87PWu69jmcRSj7e7",
+    "date": "2023-03-07",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:03.79"
+  },
+  {
+    "id": "-NVJ87QGgUmQGADJBT4m",
+    "date": "2023-05-06",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:40.85"
+  },
+  {
+    "id": "-NVJ87QGgUmQGADJBT4n",
+    "date": "2023-02-14",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:42.93"
+  },
+  {
+    "id": "-NVJ87QHpohD7XYu2buH",
+    "date": "2023-04-28",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:05.02"
+  },
+  {
+    "id": "-NVJ87QJOrLSS7FORsed",
+    "date": "2023-01-16",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:51.09"
+  },
+  {
+    "id": "-NVJ87QKui4oiELs2pKX",
+    "date": "2023-04-10",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "02:16.70"
+  },
+  {
+    "id": "-NVJ87QMAzd-cpwKar1_",
+    "date": "2023-01-04",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:14.77"
+  },
+  {
+    "id": "-NVJ87RyH8VAqt1YePy4",
+    "date": "2023-01-02",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:44.21"
+  },
+  {
+    "id": "-NVJ87RyH8VAqt1YePy5",
+    "date": "2023-05-26",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:43.29"
+  },
+  {
+    "id": "-NVJ87RyH8VAqt1YePy6",
+    "date": "2023-03-11",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:27.67"
+  },
+  {
+    "id": "-NVJ87RyH8VAqt1YePy7",
+    "date": "2023-05-29",
+    "discipline": "breaststroke",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:18.91"
+  },
+  {
+    "id": "-NVJ87RyH8VAqt1YePy8",
+    "date": "2023-04-17",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "00:53.96"
+  },
+  {
+    "id": "-NVJ87Rz7BzfSRJhqJhb",
+    "date": "2023-03-28",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:07.11"
+  },
+  {
+    "id": "-NVJ87Ss0Vs5D3r7ciMo",
+    "date": "2023-03-14",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "00:41.78"
+  },
+  {
+    "id": "-NVJ87Ss0Vs5D3r7ciMp",
+    "date": "2023-03-30",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:59.36"
+  },
+  {
+    "id": "-NVJ87Ss0Vs5D3r7ciMq",
+    "date": "2023-01-15",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "00:57.73"
+  },
+  {
+    "id": "-NVJ87Ss0Vs5D3r7ciMr",
+    "date": "2023-05-14",
+    "discipline": "butterfly",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "00:51.33"
+  },
+  {
+    "id": "-NVJ87Ss0Vs5D3r7ciMs",
+    "date": "2023-02-08",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "02:13.65"
+  },
+  {
+    "id": "-NVJ87Sthq1XBOq8lyzK",
+    "date": "2023-02-23",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:01.49"
+  },
+  {
+    "id": "-NVJ87T_2fE-t21xhyCA",
+    "date": "2023-05-01",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "00:48.96"
+  },
+  {
+    "id": "-NVJ87T_2fE-t21xhyCB",
+    "date": "2023-01-17",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "02:15.12"
+  },
+  {
+    "id": "-NVJ87T_2fE-t21xhyCC",
+    "date": "2023-03-10",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "01:20.43"
+  },
+  {
+    "id": "-NVJ87T_2fE-t21xhyCD",
+    "date": "2023-01-06",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "00:53.15"
+  },
+  {
+    "id": "-NVJ87TagiRfJev42t8m",
+    "date": "2023-05-27",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:48.83"
+  },
+  {
+    "id": "-NVJ87UIV5fsH-lrKu-u",
+    "date": "2023-02-20",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "01:09.87"
+  },
+  {
+    "id": "-NVJ87U_E-7ktrmV6jJ-",
+    "date": "2023-05-14",
+    "discipline": "freestyle",
+    "memberId": "-KMN4ey-iu_8k2HftbS4",
+    "resultType": "training",
+    "time": "01:29.72"
+  },
+  {
+    "id": "-NVJ87U_E-7ktrmV6jJ0",
+    "date": "2023-04-15",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "00:53.92"
+  },
+  {
+    "id": "-NVJ87U_E-7ktrmV6jJ1",
+    "date": "2023-03-25",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "02:04.25"
+  },
+  {
+    "id": "-NVJ87U_E-7ktrmV6jJ2",
+    "date": "2023-02-02",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "02:02.03"
+  },
+  {
+    "id": "-NVJ87U_E-7ktrmV6jJ3",
+    "date": "2023-04-28",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "01:41.76"
+  },
+  {
+    "id": "-NVJ87V43uQKkaRFMyJE",
+    "date": "2023-01-03",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "01:45.20"
+  },
+  {
+    "id": "-NVJ87VKTSvufKCvWMJ1",
+    "date": "2023-02-07",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "02:11.49"
+  },
+  {
+    "id": "-NVJ87VKTSvufKCvWMJ2",
+    "date": "2023-02-13",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "01:37.11"
+  },
+  {
+    "id": "-NVJ87VKTSvufKCvWMJ3",
+    "date": "2023-05-02",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "01:03.68"
+  },
+  {
+    "id": "-NVJ87VKTSvufKCvWMJ4",
+    "date": "2023-03-05",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "02:10.34"
+  },
+  {
+    "id": "-NVJ87VKTSvufKCvWMJ5",
+    "date": "2023-05-09",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "02:02.55"
+  },
+  {
+    "id": "-NVJ87WELfpXgIPbAE7k",
+    "date": "2023-04-22",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "01:58.92"
+  },
+  {
+    "id": "-NVJ87WFGDglpOLhPDjN",
+    "date": "2023-01-29",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "01:09.93"
+  },
+  {
+    "id": "-NVJ87WxKGiYfCXNzl7t",
+    "date": "2023-02-14",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "02:01.17"
+  },
+  {
+    "id": "-NVJ87Wzmj7mLqPCXW9k",
+    "date": "2023-04-09",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "01:12.53"
+  },
+  {
+    "id": "-NVJ87Wzmj7mLqPCXW9l",
+    "date": "2023-04-03",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "01:07.51"
+  },
+  {
+    "id": "-NVJ87XOHas-cbYq7LUi",
+    "date": "2023-05-04",
+    "discipline": "butterfly",
+    "memberId": "-KL7Aij-rt_3e9VxgqT5",
+    "resultType": "training",
+    "time": "00:40.66"
+  },
+  {
+    "id": "-NVJ87XYpbOD9z4lHKzo",
+    "date": "2023-01-08",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "00:40.72"
+  },
+  {
+    "id": "-NVJ87XZ_PEHFPVv0PX8",
+    "date": "2023-03-01",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "00:38.38"
+  },
+  {
+    "id": "-NVJ87XhPPzGKqb0wreO",
+    "date": "2023-04-23",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "02:03.69"
+  },
+  {
+    "id": "-NVJ87XwJ5oN7U0gQ7st",
+    "date": "2023-03-16",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "01:42.80"
+  },
+  {
+    "id": "-NVJ87XwJ5oN7U0gQ7su",
+    "date": "2023-01-06",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "01:09.15"
+  },
+  {
+    "id": "-NVJ87Y4vFxTbxLks_iE",
+    "date": "2023-02-20",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "00:48.29"
+  },
+  {
+    "id": "-NVJ87YHiZ_7_ycuQbi_",
+    "date": "2023-05-11",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "00:31.63"
+  },
+  {
+    "id": "-NVJ87YI_CyZRxmcDKvG",
+    "date": "2023-05-05",
+    "discipline": "backstroke",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "01:22.56"
+  },
+  {
+    "id": "-NVJ87YOw6Q0ApH0YE_b",
+    "date": "2023-04-20",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "01:38.12"
+  },
+  {
+    "id": "-NVJ87YfUR9qm9wFuQ82",
+    "date": "2023-02-01",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "01:32.86"
+  },
+  {
+    "id": "-NVJ87YgRu5hNisfphgw",
+    "date": "2023-02-11",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "02:20.99"
+  },
+  {
+    "id": "-NVJ87YmVrAzc-Lk41Ho",
+    "date": "2023-03-07",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "01:45.16"
+  },
+  {
+    "id": "-NVJ87YzkKIaVbNb2XJL",
+    "date": "2023-04-05",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "00:31.05"
+  },
+  {
+    "id": "-NVJ87Z-zK-aanPtLYyT",
+    "date": "2023-02-01",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "02:10.88"
+  },
+  {
+    "id": "-NVJ87Z5c3lfyKwNDGTR",
+    "date": "2023-05-08",
+    "discipline": "freestyle",
+    "memberId": "-KL7Ckl-uf_5g7VzhxG8",
+    "resultType": "training",
+    "time": "01:07.58"
+  },
+  {
+    "id": "-NVJ87ZgwZUI1KJmUoau",
+    "date": "2023-03-22",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:22.34"
+  },
+  {
+    "id": "-NVJ87ZgwZUI1KJmUoav",
+    "date": "2023-01-14",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:52.75"
+  },
+  {
+    "id": "-NVJ87ZgwZUI1KJmUoaw",
+    "date": "2023-01-03",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:15.20"
+  },
+  {
+    "id": "-NVJ87ZgwZUI1KJmUoax",
+    "date": "2023-05-12",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:10.70"
+  },
+  {
+    "id": "-NVJ87ZgwZUI1KJmUoay",
+    "date": "2023-03-08",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:01.11"
+  },
+  {
+    "id": "-NVJ87ZsmnwciXUzItMn",
+    "date": "2023-04-26",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:33.92"
+  },
+  {
+    "id": "-NVJ87_OHB9dDbyrE-JS",
+    "date": "2023-04-11",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "02:02.53"
+  },
+  {
+    "id": "-NVJ87_OHB9dDbyrE-JT",
+    "date": "2023-05-19",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:52.41"
+  },
+  {
+    "id": "-NVJ87_OHB9dDbyrE-JU",
+    "date": "2023-02-18",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:49.49"
+  },
+  {
+    "id": "-NVJ87_Pl8ViQN9EBtfR",
+    "date": "2023-03-06",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:20.11"
+  },
+  {
+    "id": "-NVJ87_Pl8ViQN9EBtfS",
+    "date": "2023-01-07",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:23.75"
+  },
+  {
+    "id": "-NVJ87__rwAeZ-cK-07h",
+    "date": "2023-02-02",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "00:59.88"
+  },
+  {
+    "id": "-NVJ87bVN2Lg0f9vfnMg",
+    "date": "2023-04-12",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:59.53"
+  },
+  {
+    "id": "-NVJ87bVN2Lg0f9vfnMh",
+    "date": "2023-04-25",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:30.92"
+  },
+  {
+    "id": "-NVJ87bVN2Lg0f9vfnMi",
+    "date": "2023-01-01",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "02:09.66"
+  },
+  {
+    "id": "-NVJ87bVN2Lg0f9vfnMj",
+    "date": "2023-05-09",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "02:15.66"
+  },
+  {
+    "id": "-NVJ87bVN2Lg0f9vfnMk",
+    "date": "2023-01-10",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "01:28.17"
+  },
+  {
+    "id": "-NVJ87bWD6Ew5tphlQTF",
+    "date": "2023-02-19",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "01:57.32"
+  },
+  {
+    "id": "-NVJ87cCkGJ9g6mcYwIX",
+    "date": "2023-02-02",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "00:53.89"
+  },
+  {
+    "id": "-NVJ87cCkGJ9g6mcYwIY",
+    "date": "2023-04-14",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "01:46.92"
+  },
+  {
+    "id": "-NVJ87cCkGJ9g6mcYwIZ",
+    "date": "2023-04-27",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "00:34.77"
+  },
+  {
+    "id": "-NVJ87cDQa56CkV901Yk",
+    "date": "2023-03-24",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "01:07.15"
+  },
+  {
+    "id": "-NVJ87cGD3X05x8PCoLD",
+    "date": "2023-05-08",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "01:25.35"
+  },
+  {
+    "id": "-NVJ87cLHs1FRZjH714K",
+    "date": "2023-03-11",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "02:11.88"
+  },
+  {
+    "id": "-NVJ87cypexIdmDaEdP1",
+    "date": "2023-05-20",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "02:05.08"
+  },
+  {
+    "id": "-NVJ87d-K_XZDtUyjsc6",
+    "date": "2023-01-13",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "01:13.44"
+  },
+  {
+    "id": "-NVJ87d0Jq5JwImHhpfn",
+    "date": "2023-02-27",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "01:02.57"
+  },
+  {
+    "id": "-NVJ87d0Jq5JwImHhpfo",
+    "date": "2023-01-04",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "02:01.19"
+  },
+  {
+    "id": "-NVJ87d1bnc8p4cPGw0y",
+    "date": "2023-02-04",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "01:58.31"
+  },
+  {
+    "id": "-NVJ87d3feyILWLhH8J2",
+    "date": "2023-03-15",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "01:43.11"
+  },
+  {
+    "id": "-NVJ87djHD5j4MsX6mPS",
+    "date": "2023-03-28",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "02:17.42"
+  },
+  {
+    "id": "-NVJ87dlR1uNXWiMBOrU",
+    "date": "2023-05-11",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "00:41.97"
+  },
+  {
+    "id": "-NVJ87dlR1uNXWiMBOrV",
+    "date": "2023-05-23",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "01:51.24"
+  },
+  {
+    "id": "-NVJ87dlR1uNXWiMBOrW",
+    "date": "2023-04-30",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "02:08.89"
+  },
+  {
+    "id": "-NVJ87dlR1uNXWiMBOrX",
+    "date": "2023-01-03",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:15.20"
+  },
+  {
+    "id": "-NVJ87dmILc33ThYe2jx",
+    "date": "2023-04-18",
+    "discipline": "butterfly",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "01:28.74"
+  },
+  {
+    "id": "-NVJ87eSKxdUrb3t99YI",
+    "date": "2023-02-01",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "02:10.88"
+  },
+  {
+    "id": "-NVJ87eTTgJbzaIrhwjI",
+    "date": "2023-04-13",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "02:02.53"
+  },
+  {
+    "id": "-NVJ87eU_WBd5F2-qsrk",
+    "date": "2023-02-19",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:19.49"
+  },
+  {
+    "id": "-NVJ87fLmw8vvTRxupJd",
+    "date": "2023-01-12",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:52.75"
+  },
+  {
+    "id": "-NVJ87fMOtkfhTFaIJ01",
+    "date": "2023-05-20",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:52.41"
+  },
+  {
+    "id": "-NVJ87fMOtkfhTFaIJ02",
+    "date": "2023-05-11",
+    "discipline": "breaststroke",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:10.70"
+  },
+  {
+    "id": "-NVJ87fMOtkfhTFaIJ03",
+    "date": "2023-01-18",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:11.03"
+  },
+  {
+    "id": "-NVJ87fNd2sB-YLto7Z-",
+    "date": "2023-01-06",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "02:17.22"
+  },
+  {
+    "id": "-NVJ87fg49CG76huTWto",
+    "date": "2023-02-06",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:47.79"
+  },
+  {
+    "id": "-NVJ87g8FfT_oB22xuat",
+    "date": "2023-04-12",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "00:47.92"
+  },
+  {
+    "id": "-NVJ87gD0cp4-z-ZLRbQ",
+    "date": "2023-03-10",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "02:04.15"
+  },
+  {
+    "id": "-NVJ87gEcnXX3u4UtxfR",
+    "date": "2023-02-23",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:25.37"
+  },
+  {
+    "id": "-NVJ87gR3cv8se2HQbMZ",
+    "date": "2023-05-07",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:21.89"
+  },
+  {
+    "id": "-NVJ87gR3cv8se2HQbM_",
+    "date": "2023-04-25",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "02:08.14"
+  },
+  {
+    "id": "-NVJ87gpLgHDhenZWKdZ",
+    "date": "2023-05-19",
+    "discipline": "butterfly",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:52.11"
+  },
+  {
+    "id": "-NVJ87h8zvJPLu2bsCW6",
+    "date": "2023-01-05",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:23.75"
+  },
+  {
+    "id": "-NVJ87h8zvJPLu2bsCW7",
+    "date": "2023-01-01",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:45.40"
+  },
+  {
+    "id": "-NVJ87hEpKbdYvKv--DN",
+    "date": "2023-02-03",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:19.88"
+  },
+  {
+    "id": "-NVJ87hbslYmH_-MumNE",
+    "date": "2023-03-09",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:20.11"
+  },
+  {
+    "id": "-NVJ87hlYCP9Xc9KIMst",
+    "date": "2023-02-18",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:29.49"
+  },
+  {
+    "id": "-NVJ87hvfR3f1eUWhPfs",
+    "date": "2023-04-10",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:59.53"
+  },
+  {
+    "id": "-NVJ87hzfAArZsn3VH2g",
+    "date": "2023-04-25",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:30.92"
+  },
+  {
+    "id": "-NVJ87iSIxonYN2lTYYX",
+    "date": "2023-05-05",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:55.66"
+  },
+  {
+    "id": "-NVJ87iZVQxkPpMjaiJ_",
+    "date": "2023-05-16",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "01:42.41"
+  },
+  {
+    "id": "-NVJ87iowxw_KzbdC976",
+    "date": "2023-01-16",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "00:56.96"
+  },
+  {
+    "id": "-NVJ87ipMAqMUvthG23p",
+    "date": "2023-01-04",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "01:57.29"
+  },
+  {
+    "id": "-NVJ87jBVcJ-lomwmnVS",
+    "date": "2023-02-21",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "00:49.06"
+  },
+  {
+    "id": "-NVJ87jEKz3FcOEaYX5H",
+    "date": "2023-03-12",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "01:35.84"
+  },
+  {
+    "id": "-NVJ87jM84RatwfWG_LB",
+    "date": "2023-03-26",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "01:24.17"
+  },
+  {
+    "id": "-NVJ87jZHVMVzBFQkEWT",
+    "date": "2023-04-30",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "00:47.76"
+  },
+  {
+    "id": "-NVJ87jt4FNUVCj6CRHo",
+    "date": "2023-05-09",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "02:16.91"
+  },
+  {
+    "id": "-NVJ87k5nvjthCFtMhfZ",
+    "date": "2023-05-22",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "01:47.08"
+  },
+  {
+    "id": "-NVJ87k8HUQdK4LcPu9p",
+    "date": "2023-01-02",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "00:50.40"
+  },
+  {
+    "id": "-NVJ87kVflbX7GHmXypp",
+    "date": "2023-02-04",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "02:21.92"
+  },
+  {
+    "id": "-NVJ87kWHtigir4EjezF",
+    "date": "2023-01-12",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "01:37.72"
+  },
+  {
+    "id": "-NVJ87kiFEjCNWGFECuP",
+    "date": "2023-02-18",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "01:22.14"
+  },
+  {
+    "id": "-NVJ87kwGSm6WTuxoOaq",
+    "date": "2023-03-25",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "01:18.47"
+  },
+  {
+    "id": "-NVJ87l5KLt1BO4Cv3A6",
+    "date": "2023-04-26",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "01:02.97"
+  },
+  {
+    "id": "-NVJ87lIXVnWETrzdGa_",
+    "date": "2023-05-08",
+    "discipline": "freestyle",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "training",
+    "time": "01:32.26"
+  },
+  {
+    "id": "-NVUF3kl3-VVi4Efyk3r",
+    "competitionLocation": "",
+    "competitionName": "",
+    "competitionPlacement": "",
+    "date": "2021-05-03",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "01:00.02"
+  },
+  {
+    "id": "-NVUG8TtNKhGWvPpr75F",
+    "competitionLocation": "",
+    "competitionName": "",
+    "competitionPlacement": "",
+    "date": "2022-02-03",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "01:02.00"
+  },
+  {
+    "id": "-NVUGUKn6PLaoU4jmzIA",
+    "competitionLocation": "Copenhagen",
+    "competitionName": "Ali Stadion",
+    "competitionPlacement": "1",
+    "date": "2022-02-02",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "competition",
+    "time": "02:02.00"
+  },
+  {
+    "id": "-NVUHXQpCxUWR2--YGQO",
+    "date": "2022-02-01",
+    "discipline": "backstroke",
+    "memberId": "-KM1Fgh-tp_7i9XzcwR1",
+    "resultType": "training",
+    "time": "01:02.00"
+  },
+  {
+    "id": "-NVUHk_QVSdMcWoz6EZA",
+    "date": "2023-05-15",
+    "discipline": "freestyle",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:02.00"
+  },
+  {
+    "id": "-NVUI0G9yFmvfTsdy-tJ",
+    "date": "2023-05-15",
+    "discipline": "breaststroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "10:10.10"
+  },
+  {
+    "id": "-NVUIGPO0jL10kcOiEEF",
+    "date": "2023-05-15",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:30.22"
+  },
+  {
+    "id": "-NVUawGrPeatA78JmEB8",
+    "competitionLocation": "LocationTest",
+    "competitionName": "NameTest",
+    "competitionPlacement": "2",
+    "date": "2023-05-17",
+    "discipline": "butterfly",
+    "memberId": "-NVUW_m8lngXDQ7CzmdB",
+    "resultType": "competition",
+    "time": "01:00.25"
+  },
+  {
+    "id": "-NVZGibW5zxYzFBCY2Xq",
+    "date": "2023-12-05",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:30.22"
+  },
+  {
+    "id": "-NVZHEb29QMIDfkQXC8S",
+    "date": "2023-05-17",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "10:10.10"
+  },
+  {
+    "id": "-NVZHoWEjTS6CJMM894A",
+    "date": "2023-05-17",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "20:20.20"
+  },
+  {
+    "id": "-NVZHwIWE7yriPuBVEWW",
+    "date": "0023-05-17",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "30:30.30"
+  },
+  {
+    "id": "-NVZIUiaIz_WPArpiG_a",
+    "date": "2023-05-17",
+    "discipline": "backstroke",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "training",
+    "time": "01:02.03"
+  },
+  {
+    "id": "-NVa4dP9nrf0RkNtqNTN",
+    "competitionLocation": "Roskilde",
+    "competitionName": "New Years Splash",
+    "competitionPlacement": "2",
+    "date": "2023-01-01",
+    "discipline": "backstroke",
+    "memberId": "-NV_VQjCQ5YElp9OrRvY",
+    "resultType": "competition",
+    "time": "00:56.12"
+  },
+  {
+    "id": "-NVa4uHRxsDEDAr3jw_i",
+    "date": "2023-05-16",
+    "discipline": "backstroke",
+    "memberId": "-NV_VQjCQ5YElp9OrRvY",
+    "resultType": "training",
+    "time": "00:58.22"
+  },
+  {
+    "id": "-NVa5XsxS52ECr9LqOnZ",
+    "date": "2023-05-12",
+    "discipline": "backstroke",
+    "memberId": "-NV_VQjCQ5YElp9OrRvY",
+    "resultType": "training",
+    "time": "00:57.01"
+  },
+  {
+    "id": "-NVcT6lr8Iiektg1uLaD",
+    "date": "2023-05-21",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "training",
+    "time": "02:02.02"
+  },
+  {
+    "id": "-NVcTJeCUUyB7q_kJVQg",
+    "competitionLocation": "Guldbergsgade",
+    "competitionName": "KEA",
+    "competitionPlacement": "2",
+    "date": "2023-05-22",
+    "discipline": "freestyle",
+    "memberId": "-KM3Nuv-ju_4t9XpswS1",
+    "resultType": "competition",
+    "time": "02:02.03"
+  },
+  {
+    "id": "-NVcYt2yHns1tmeNj3tg",
+    "competitionLocation": "Nørrebro",
+    "competitionName": "KEA Cup",
+    "competitionPlacement": "1",
+    "date": "2023-08-17",
+    "discipline": "freestyle",
+    "memberId": "-KMN88y-fy_5t9CgvlJ2",
+    "resultType": "competition",
+    "time": "00:30.30"
+  },
+  {
+    "id": "-NVdZ9lUIvx-xUyNZCMF",
+    "competitionLocation": "KEA",
+    "competitionName": "KEA",
+    "competitionPlacement": "8",
+    "date": "2023-05-02",
+    "discipline": "freestyle",
+    "memberId": "-NVdYgvOhLC_K7K9BoDz",
+    "resultType": "competition",
+    "time": "02:03.02"
+  },
+  {
+    "id": "-NVdZHi8wAM5zGi_IGFa",
+    "date": "2023-04-03",
+    "discipline": "backstroke",
+    "memberId": "-NVdYgvOhLC_K7K9BoDz",
+    "resultType": "training",
+    "time": "03:01.04"
+  },
+  {
+    "id": "-NVfIJOWzwB-ztXROuPN",
+    "date": "2023-09-12",
+    "discipline": "backstroke",
+
+    "memberId": "-NVa8vjwRZ_xhN9O4NBb",
+
+    "resultType": "training",
+    "time": "01:02.30"
+  },
+  {
+    "id": "-NVfIPG1rzN8qn55Ng8U",
+    "competitionLocation": "Køæbenhavn",
+    "competitionName": "Ali Cup",
+    "competitionPlacement": "1",
+    "date": "2020-03-02",
+    "discipline": "backstroke",
+
+    "memberId": "-NVa8vjwRZ_xhN9O4NBb",
+
+    "resultType": "competition",
+    "time": "10:20.12"
+  },
+  {
+    "id": "-NVfIwtgO2jd7ZeWkMDt",
+    "date": "2020-09-12",
+    "discipline": "freestyle",
+
+    "memberId": "-NVfIqJgB2nA_grdulws",
+
+    "resultType": "training",
+    "time": "01:02.30"
+  },
+  {
+    "id": "-NVfJ0n5N7fck0JsI-ng",
+    "competitionLocation": "Køæbenhavn",
+    "competitionName": "Hallo fister",
+    "competitionPlacement": "2",
+    "date": "2023-02-12",
+    "discipline": "freestyle",
+
+    "memberId": "-NVfIqJgB2nA_grdulws",
+
+    "resultType": "competition",
+    "time": "10:20.12"
+  },
+  {
+    "id": "-NVfJ53qRfTCrHUn0sw7",
+    "date": "2019-09-09",
+    "discipline": "breaststroke",
+
+    "memberId": "-NVfIqJgB2nA_grdulws",
+
+    "resultType": "training",
+    "time": "03:01.02"
+  },
+  {
+    "id": "-NVfKEmixdXrSTl7Fjeg",
+    "date": "2000-09-12",
+    "discipline": "breaststroke",
+
+    "memberId": "-NVfKA7ycDPvmYGzfJ0S",
+
+    "resultType": "training",
+    "time": "01:02.30"
+  },
+  {
+    "id": "-NVfKI7KesvZc16EjF0I",
+    "date": "2023-02-11",
+    "discipline": "breaststroke",
+
+    "memberId": "-NVfKA7ycDPvmYGzfJ0S",
+
+    "resultType": "training",
+    "time": "10:20.30"
+  },
+  {
+    "id": "-NVhpe6Wc8ZBIfLsFvkL",
+    "competitionLocation": "kea ",
+    "competitionName": "Føtex cup",
+    "competitionPlacement": "1",
+    "date": "2023-02-02",
+    "discipline": "backstroke",
+    "memberId": "-NVdYgvOhLC_K7K9BoDz",
+    "resultType": "competition",
+    "time": "00:03.02"
+  },
+  {
+    "id": "-NViG8HY7EYWo_mYY-xc",
+    "date": "2023-04-12",
+    "discipline": "backstroke",
+    "memberId": "-NVdYgvOhLC_K7K9BoDz",
+    "resultType": "training",
+    "time": "04:03.90"
+  },
+  {
+    "id": "-NVsY7sq6srFXFwOQeAf",
+    "competitionLocation": "Køæbenhavn",
+    "competitionName": "Hallo fister",
+    "competitionPlacement": "1",
+    "date": "2023-02-12",
+    "discipline": "butterfly",
+
+    "memberId": "-NVsXoGvxg7Xy2Z12mLG",
+
+    "resultType": "competition",
+    "time": "00:01.02"
+  },
+  {
+    "id": "-NVsh7Qe9funGKFJDTY-",
+    "competitionLocation": "Køæbenhavn",
+    "competitionName": "Hallo fister",
+    "competitionPlacement": "1",
+    "date": "2020-09-12",
+    "discipline": "butterfly",
+
+    "memberId": "-NVsgwYlb7PHXcVblSfA",
+
+    "resultType": "competition",
+    "time": "00:01.02"
+  },
+  {
+    "id": "-NVshH3RvwJP_Ow5kVxC",
+    "competitionLocation": "Esbjerg",
+    "competitionName": "Cup",
+    "competitionPlacement": "2",
+    "date": "1999-09-12",
+    "discipline": "butterfly",
+
+    "memberId": "-NVsgwYlb7PHXcVblSfA",
+
+    "resultType": "competition",
+    "time": "00:01.01"
+  },
+  {
+    "id": "-NVshSzZByAXq57iiyO1",
+    "competitionLocation": "Esbjerg",
+    "competitionName": "Ali",
+    "competitionPlacement": "3",
+    "date": "2010-01-01",
+    "discipline": "butterfly",
+
+    "memberId": "-NVsgwYlb7PHXcVblSfA",
+
+    "resultType": "competition",
+    "time": "00:00.01"
+  },
+  {
+    "id": "-NVsiHYlEm36suepVrMq",
+    "competitionLocation": "Køæbenhavn",
+    "competitionName": "Hallo fister",
+    "competitionPlacement": "1",
+    "date": "2022-02-01",
+    "discipline": "butterfly",
+    "memberId": "-KMN3xh-tz_7u3EgsjG1",
+    "resultType": "competition",
+    "time": "00:02.05"
+  },
+  {
+    "id": "-NVsoFlRf9Rv-VqJ-zXe",
+    "date": "2023-05-20",
+    "discipline": "backstroke",
+    "memberId": "-NVir4s5HpIFJ2q_Zt1y",
+    "resultType": "training",
+    "time": "00:00.00"
+  },
+  {
+    "id": "-NVutLzitYHYpUUABEpv",
+    "date": "2023-06-21",
+    "discipline": "backstroke",
+    "memberId": "-KL7Eop-lk_1j5RyaqZ2",
+    "resultType": "training",
+    "time": "01:01.23"
+  },
+  {
+    "id": "-NVxgS1saa7J7aNz7LHa",
+    "competitionLocation": "Stenløse",
+    "competitionName": "Stenløse Cup",
+    "competitionPlacement": "5",
+    "date": "2023-04-12",
+    "discipline": "freestyle",
+    "memberId": "-NVjuqjfJG-dLUnMDXaE",
+    "resultType": "competition",
+    "time": "02:02.03"
+  },
+  {
+    "id": "-NVyuFhSdbhvDX3Py4ju",
+    "competitionLocation": "Sundbybad",
+    "competitionName": "Freestyle",
+    "competitionPlacement": "1",
+    "date": "2029-02-03",
+    "discipline": "freestyle",
+    "memberId": "-KM3Otw-gu_3j8XlwqK2",
+    "resultType": "competition",
+    "time": "01:00.20"
+  },
+  {
+    "id": "-NVzYWSjpKTJ87Jslg-W",
+    "competitionLocation": "Køæbenhavn",
+    "competitionName": "Hallo fister",
+    "competitionPlacement": "2",
+    "date": "2020-09-12",
+    "discipline": "backstroke",
+
+    "memberId": "-NVzYQAwcdTz8OfnKCyJ",
+
+    "resultType": "competition",
+    "time": "01:03.02"
+  },
+  {
+    "id": "-NW1c2cXBHCEyKo4dQ1k",
+    "date": "2023-05-11",
+    "discipline": "breaststroke",
+
+    "memberId": "-NW1_5Mf0uviO1w1bAVX",
+
+    "resultType": "training",
+    "time": "00:01.00"
+  },
+  {
+    "id": "-NW1cnakMMDxk6M3xXt3",
+    "date": "2023-05-22",
+    "discipline": "backstroke",
+    "memberId": "-NVdYgvOhLC_K7K9BoDz",
+    "resultType": "training",
+    "time": "00:00.01"
+  },
+  {
+    "id": "-NW9Lxv2YcpB85r0W53z",
+    "date": "2023-05-16",
+    "discipline": "breaststroke",
+    "memberId": "-NVxjwBRr6bPmRA38B9s",
+    "resultType": "training",
+    "time": "01:03.05"
+  },
+  {
+    "id": "-NWIgwfQTDdTHT-ImFkU",
+    "competitionLocation": "Svendborg",
+    "competitionName": "Svendborg Cup",
+    "competitionPlacement": "7",
+    "date": "2023-02-02",
+    "discipline": "freestyle",
+    "memberId": "-NW6dQvoYuMWOA10aH75",
+    "resultType": "competition",
+    "time": "01:03.26"
+  },
+  {
+    "id": "-NWIijaKX-F9COjjX00W",
+    "competitionLocation": "Odense ",
+    "competitionName": "Odense Cup",
+    "competitionPlacement": "5",
+    "date": "2023-05-24",
+    "discipline": "freestyle",
+    "memberId": "-NW6dQvoYuMWOA10aH75",
+    "resultType": "competition",
+    "time": "00:01.01"
+  },
+  {
+    "id": "-NWJbuugUwVeEc8btBPc",
+    "date": "2021-02-15",
+    "discipline": "breaststroke",
+    "memberId": "-NWJbJys2-aBJ3_9ydeW",
+    "resultType": "training",
+    "time": "01:21.37"
+  }
+]
