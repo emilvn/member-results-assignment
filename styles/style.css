@@ -39,7 +39,7 @@ body {
   display: none;
 }
 
-/* invididual styling of tables ... adjust to taste! */
+/* individual styling of tables ... adjust to taste! */
 
 #members tr td:nth-child(3) {
   text-align: right;
