@@ -25,19 +25,27 @@ export class TableView{
 	#_initFilter(){
 		const filter = document.querySelector(`#${this.#_table.id}-filter`);
 		const propertySelect = filter.querySelector(".filter-property")
+		const valueSelects = filter.querySelectorAll(".filter-value select");
+
 		propertySelect.addEventListener("change", () => {
+			const filterProperty = propertySelect.value;
 			filter.querySelectorAll(".filter-value").forEach(element => {
 				if(!element.classList.contains("hide")) element.classList.add("hide");
-			})
-			const filterProperty = propertySelect.value;
-			if(filterProperty !== ""){
-				const filterDiv = document.querySelector(`#${filterProperty}-filter-div`);
-				const filterValueSelect = document.querySelector(`#${filterProperty}-filter`)
-				filterValueSelect.addEventListener("change", () => {
-					this.#_ItemListRenderer.filter(filterProperty, filterValueSelect.value);
-				});
-				filterDiv.classList.remove("hide");
+			});
+			filter.querySelectorAll(".filter-value>select>option")
+				.forEach(option => {if(option.value === "") option.selected = true});
+			if(filterProperty === ""){
+				this.#_ItemListRenderer.filter();
+			}
+			else{
+				filter.querySelector(`#${propertySelect.value}-filter-div`)
+					.classList.remove("hide");
+
 			}
 		});
+		valueSelects.forEach(select => select.addEventListener("change", () => {
+			const filterProperty = propertySelect.value;
+			this.#_ItemListRenderer.filter(filterProperty, select.value);
+		}));
 	}
 }
