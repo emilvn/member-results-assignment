@@ -23,6 +23,7 @@ export class TableView{
 		});
 	}
 	#_initFilter(){
+		// TODO: make more readable, consider refactoring some arrow functions to seperate methods
 		const filter = document.querySelector(`#${this.#_table.id}-filter`);
 		const propertySelect = filter.querySelector(".filter-property")
 		const valueSelects = filter.querySelectorAll(".filter-value select");
