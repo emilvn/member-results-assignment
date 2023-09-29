@@ -10,7 +10,10 @@ export class DataService{
 		if (!res.ok) {
 			throw await res.json();
 		}
-		const data = await res.json()
+		const data = await res.json();
+		if(this.#_ItemModel === undefined) {
+			return data;
+		}
 		return data.map(item => new this.#_ItemModel(item));
 	}
 
@@ -20,6 +23,9 @@ export class DataService{
 			throw await res.json();
 		}
 		const item = await res.json();
+		if(this.#_ItemModel === undefined){
+			return item;
+		}
 		return new this.#_ItemModel(item);
 	}
 
