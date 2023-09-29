@@ -16,7 +16,17 @@ export class ListRenderer{
 		this.#_container.innerHTML = "";
 	}
 	render(){
-		this.#_renderers.forEach(ItemRenderer => {
+		let renderersToRender;
+		if(this.#_filterValue !== ""
+			&& this.#_filterValue !== undefined
+			&& this.#_filterProperty !== ""
+			&& this.#_filterProperty !== undefined){
+			renderersToRender = this.#_renderers.filter(renderer => String(renderer.item[this.#_filterProperty])===this.#_filterValue);
+		}
+		else{
+			renderersToRender = this.#_renderers;
+		}
+		renderersToRender.forEach(ItemRenderer => {
 			const html = ItemRenderer.render();
 			this.#_container.insertAdjacentHTML("beforeend", html);
 			if(ItemRenderer.postRender !== undefined) ItemRenderer.postRender(this.#_container.lastElementChild);
@@ -25,6 +35,8 @@ export class ListRenderer{
 	filter(filterProperty, filterValue){
 		this.#_filterProperty = filterProperty;
 		this.#_filterValue = filterValue;
+		this.clear();
+		this.render();
 	}
 	sort(sortBy){
 		// get sort details from dict

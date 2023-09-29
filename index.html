@@ -9,7 +9,57 @@
 </head>
 <body>
   <h1>Medlemmer og Resultater</h1>
-
+  <div id="members-filter" class="hide">
+    <label for="members-filter__filter-property">Filtrér efter</label>
+    <select id="members-filter__filter-property" class="filter-property">
+      <option value=""></option>
+      <option value="isActive">aktiv/ikke aktiv</option>
+      <option value="isJunior">junior/senior</option>
+    </select>
+    <div id="isActive-filter-div" class="filter-value hide">
+      <label for="isActive-filter">Vis</label>
+      <select id="isActive-filter">
+        <option value="" selected>Alle</option>
+        <option value="true">Aktiv</option>
+        <option value="false">Ikke aktiv</option>
+      </select>
+    </div>
+    <div id="isJunior-filter-div" class="filter-value hide">
+      <label for="isJunior-filter">Vis</label>
+      <select id="isJunior-filter">
+        <option value="" selected>Alle</option>
+        <option value="true">Junior</option>
+        <option value="false">Senior</option>
+      </select>
+    </div>
+  </div>
+  <div id="results-filter" class="hide">
+    <label for="results-filter__filter-property" >Filtrér efter</label>
+    <select id="results-filter__filter-property" class="filter-property">
+      <option value="" selected>Alle</option>
+      <option value="discipline">disciplin</option>
+      <option value="isCompetition">type</option>
+    </select>
+    <div id="isCompetition-filter-div" class="filter-value hide">
+      <label for="isCompetition-filter">Konkurrence</label>
+      <select id="isCompetition-filter">
+        <option value="" selected>Alle</option>
+        <option value="true">Konkurrence</option>
+        <option value="false">Træning</option>
+      </select>
+    </div>
+    <div id="discipline-filter-div" class="hide">
+      <label for="discipline-filter">Disciplin</label>
+      <select id="discipline-filter">
+        <option value="" selected>Alle</option>
+        <option value="backstroke">rygsvømning</option>
+        <option value="breaststroke">brystsvømning</option>
+        <option value="freestyle">freestyle</option>
+        <option value="butterfly">fly</option>
+        <option value="crawl">crawl</option>
+      </select>
+    </div>
+  </div>
   <div id="tabs">
     <h2 data-tab-show="members">Medlemmer</h2>
     <h2 data-tab-show="results">Resultater</h2>

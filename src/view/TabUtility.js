@@ -16,11 +16,12 @@ export class TabUtility {
       if (TabUtility.selectedTab) {
         TabUtility.selectedTab.classList.remove("selected");
         document.querySelector(`#${TabUtility.selectedTab.dataset.tabShow}`).classList.add("hide");
+        document.querySelector(`#${TabUtility.selectedTab.dataset.tabShow}-filter`).classList.add("hide");
       }
       // select this tab
       tab.classList.add("selected");
       document.querySelector(`#${tab.dataset.tabShow}`).classList.remove("hide");
-
+      document.querySelector(`#${tab.dataset.tabShow}-filter`).classList.remove("hide");
       // remember the selected tab
       TabUtility.selectedTab = tab;
     }
