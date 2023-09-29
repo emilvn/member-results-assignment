@@ -1,22 +1,66 @@
-import {Member} from "../models/Member.js";
-import {Result} from "../models/Result.js";
-
 export class DataService{
-	static async getMembers() {
-		const res = await fetch("data/members.json");
-		if (res.ok) {
-			const members = (await res.json()).map(member => new Member(member));
-			members.sort((a, b) => a.name.localeCompare(b.name));
-			return members;
+	#_endpoint;
+	#_ItemModel;
+	constructor(endpoint, ItemModel) {
+		this.#_endpoint = endpoint;
+		this.#_ItemModel = ItemModel;
+	}
+	async getAll() {
+		const res = await fetch(this.#_endpoint);
+		if (!res.ok) {
+			throw await res.json();
 		}
+		const data = await res.json()
+		return data.map(item => new this.#_ItemModel(item));
 	}
 
-	static async getResults() {
-		const res = await fetch("data/results.json");
-		if (res.ok) {
-			const results = (await res.json()).map(result => new Result(result));
-			results.sort((a, b) => a.timeInMilliseconds - b.timeInMilliseconds);
-			return results;
+	async getOne(id){
+		const res = await fetch(`${this.#_endpoint}/${id}`);
+		if(!res.ok){
+			throw await res.json();
 		}
+		const item = await res.json();
+		return new this.#_ItemModel(item);
+	}
+
+	async post(Item){
+		const res = await fetch(this.#_endpoint, {
+			method: "POST",
+			headers: {
+				"Content-Type":"application/json"
+			},
+			body: JSON.stringify(Item)
+		});
+		if(!res.ok){
+			throw await res.json();
+		}
+		return await res.json();
+	}
+
+	async update(id, Item){
+		const res = await fetch(`${this.#_endpoint}/${id}`, {
+			method: "PUT",
+			headers: {
+				"Content-Type":"application/json"
+			},
+			body: JSON.stringify(Item)
+		});
+		if(!res.ok){
+			throw await res.json();
+		}
+		return await res.json();
+	}
+
+	async delete(id){
+		const res = await fetch(`${this.#_endpoint}/${id}`, {
+			method: "DELETE",
+			headers: {
+				"Content-Type":"application/json"
+			}
+		});
+		if(!res.ok){
+			throw await res.json();
+		}
+		return await res.json();
 	}
 }
