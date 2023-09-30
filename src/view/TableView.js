@@ -9,7 +9,7 @@ export class TableView{
 		this.#_itemList = itemList;
 		this.#_table = tableElement;
 		this.#_ItemRenderer = ItemRenderer;
-		this.#_ItemListRenderer = new ListRenderer(this.#_itemList, this.#_table.querySelector("tbody"), this.#_ItemRenderer);
+		this.#_ItemListRenderer = new ListRenderer(itemList, tableElement.querySelector("tbody"), ItemRenderer);
 	}
 	init(){
 		this.#_ItemListRenderer.render();
