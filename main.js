@@ -10,8 +10,16 @@ window.addEventListener("load", main);
 export let members;
 export let results;
 async function main() {
-	TabUtility.initTabs();
+	try{
+		await initData();
+		initView();
+	}
+	catch (err){
+		console.log(err);
+	}
+}
 
+async function initData(){
 	const MemberDataService = new DataService("data/members.json", Member);
 	const ResultDataService = new DataService("data/results.json", Result);
 
@@ -20,12 +28,15 @@ async function main() {
 		results = await ResultDataService.getAll();
 	}
 	catch (err){
-		console.log(err);
+		throw err;
 	}
+}
 
+function initView(){
 	const MemberTableView = new TableView(members, document.querySelector("#members"), MemberRenderer);
 	const ResultTableView = new TableView(results, document.querySelector("#results"), ResultRenderer);
 
+	TabUtility.initTabs();
 	MemberTableView.init();
 	ResultTableView.init();
 }
