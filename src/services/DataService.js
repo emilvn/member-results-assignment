@@ -29,7 +29,7 @@ export class DataService{
 		return new this.#_ItemModel(item);
 	}
 
-	async post(Item){
+	async create(Item){
 		const res = await fetch(this.#_endpoint, {
 			method: "POST",
 			headers: {
