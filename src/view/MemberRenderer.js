@@ -17,6 +17,6 @@ export class MemberRenderer{
 		`
 	}
 	postRender(element){
-
+		// method for adding event listeners
 	}
 }

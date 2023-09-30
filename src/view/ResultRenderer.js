@@ -19,6 +19,6 @@ export class ResultRenderer{
 		`
 	}
 	postRender(element){
-
+		// method for adding event listeners
 	}
 }

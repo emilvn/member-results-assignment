@@ -74,8 +74,6 @@ export class ListRenderer{
 						: b.item[this.#_sortBy].name.localeCompare(a.item[this.#_sortBy].name)
 				);
 				break;
-			default:
-				break;
 		}
 
 		this.#_renderers = definedPropertyRenderers.concat(undefinedPropertyRenderers);
