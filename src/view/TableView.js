@@ -23,41 +23,36 @@ export class TableView{
 		});
 	}
 	#_initFilter(){
-		const filter = document.querySelector(`#${this.#_table.id}-filter`);
-		const propertySelect = filter.querySelector(".filter-property")
-		const valueSelects = filter.querySelectorAll(".filter-value select");
+		const itemFilterDiv = document.querySelector(`#${this.#_table.id}-filter`);
+		const propertySelect = itemFilterDiv.querySelector(".filter-property");
+		const valueSelects = itemFilterDiv.querySelectorAll(".filter-value select");
 
 		propertySelect.addEventListener("change", () => {
-			this.#_filterPropertyChange(propertySelect)
+			this.#_filterPropertyChange(propertySelect);
 		});
 
-		valueSelects.forEach(filterValueSelect => filterValueSelect.addEventListener("change", () => {
-			const filterProperty = propertySelect.value;
-			this.#_ItemListRenderer.filter(filterProperty, filterValueSelect.value);
+		valueSelects.forEach(valueSelect =>
+			valueSelect.addEventListener("change", () => {
+			this.#_ItemListRenderer.filter(propertySelect.value, valueSelect.value);
 		}));
 	}
 	#_filterPropertyChange(propertySelect) {
 		const itemFilterDiv = propertySelect.parentElement;
 		const filterProperty = propertySelect.value;
+		const allValueSelectDivs = itemFilterDiv.querySelectorAll(".filter-value");
+		const valueSelectDiv = itemFilterDiv.querySelector(`#${propertySelect.value}-filter-div`);
 
-		itemFilterDiv.querySelectorAll(".filter-value").forEach(element => {
-			if (!element.classList.contains("hide")) element.classList.add("hide");
+		allValueSelectDivs.forEach(div => {
+			if (!div.classList.contains("hide")) div.classList.add("hide");
 		});
 
-		// reset options to All in filter value selects
+		// reset options in filter value selects
 		itemFilterDiv.querySelectorAll(".filter-value>select>option")
-			.forEach(option => {
-				if (option.value === "") option.selected = true
-			});
+			.forEach(option =>
+				option.selected = option.value === ""
+			);
 
-		if (filterProperty === "") {
-			// ListRenderer.filter called with no params to remove filter
-			this.#_ItemListRenderer.filter();
-		}
-		else {
-			itemFilterDiv.querySelector(`#${propertySelect.value}-filter-div`)
-				.classList.remove("hide");
-
-		}
+		if (filterProperty === "") this.#_ItemListRenderer.filter(); // no params to remove filter
+		else valueSelectDiv.classList.remove("hide");
 	}
 }
