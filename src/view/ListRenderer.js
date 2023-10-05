@@ -1,4 +1,4 @@
-import {headersToPropertiesDict} from "../helpers/headers-to-properties-dict.js";
+import {sortDictionary} from "../helpers/sort-dictionary.js";
 
 export class ListRenderer{
 	#_renderers;
@@ -39,11 +39,7 @@ export class ListRenderer{
 		this.render();
 	}
 	sort(sortBy){
-		// get sort details from dict
-		const sortDetails = headersToPropertiesDict[sortBy];
-		const sortProperty = sortDetails.propertyName;
-		const sortType = sortDetails.sortType;
-		this.#_sortBy = sortProperty;
+		this.#_sortBy = sortDictionary[sortBy].propertyName;
 
 		// change ascending/descending
 		this.#_sortAscending = !this.#_sortAscending;
@@ -52,29 +48,10 @@ export class ListRenderer{
 		const definedPropertyRenderers = this.#_renderers.filter(renderer => renderer.item[this.#_sortBy] !== undefined);
 		const undefinedPropertyRenderers = this.#_renderers.filter(renderer => renderer.item[this.#_sortBy] === undefined);
 
-		switch (sortType){
-			case "string":
-				definedPropertyRenderers.sort((a,b)=>
-					(this.#_sortAscending)
-						? a.item[this.#_sortBy].localeCompare(b.item[this.#_sortBy])
-						: b.item[this.#_sortBy].localeCompare(a.item[this.#_sortBy])
-				);
-				break;
-			case "number":
-				definedPropertyRenderers.sort((a,b) =>
-					(this.#_sortAscending)
-						? a.item[this.#_sortBy] - b.item[this.#_sortBy]
-						: b.item[this.#_sortBy] - a.item[this.#_sortBy]
-				);
-				break;
-			case "objectName":
-				definedPropertyRenderers.sort((a,b) =>
-					(this.#_sortAscending)
-						? a.item[this.#_sortBy].name.localeCompare(b.item[this.#_sortBy].name)
-						: b.item[this.#_sortBy].name.localeCompare(a.item[this.#_sortBy].name)
-				);
-				break;
-		}
+		(this.#_sortAscending)
+			? definedPropertyRenderers.sort(sortDictionary[sortBy].sortAscending)
+			: definedPropertyRenderers.sort(sortDictionary[sortBy].sortDescending);
+
 
 		this.#_renderers = definedPropertyRenderers.concat(undefinedPropertyRenderers);
 		this.clear();
